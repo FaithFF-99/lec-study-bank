@@ -1,0 +1,1132 @@
+{
+  "version": "2026.10.30.1",
+  "updated": "2026-10-30",
+  "title": "LEC 宪法随身练",
+  "sourceNote": "LEC题源为用户提供的历年真题解析汇编；未独立核验为官方发布原卷。保留出处，校订与改编明确区分。课堂练习不是NCBE官方题。",
+  "questions": [
+    {
+      "id": "lec-2017-05-001",
+      "topic": "法律英语",
+      "title": "Complainant",
+      "stem": "Complainant",
+      "options": [
+        "In a civil case, one who makes a complaint, often referred to as the “plaintiff.”",
+        "A voluntary transfer, by a debtor of all his property to a trustee for the benefit of all his creditors.",
+        "A sworn witness to the innocence or good character of an accused person.",
+        "Someone who gives assistance to the perpetrator of crime, without directly committing it, sometimes without being present."
+      ],
+      "answer": 0,
+      "translation": "Complainant 在民事诉讼中通常指什么？",
+      "rule": "Complainant 通常指提出诉讼或投诉的人；本题的民事语境中对应 plaintiff。",
+      "explanations": [
+        "A定义的是人，即提出民事诉讼的原告。",
+        "B描述为清偿债务而转让财产的安排。",
+        "C描述证明无罪或品格的证人。",
+        "D描述参与犯罪的帮助者。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q1",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          10
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-005",
+      "topic": "司法权与法院",
+      "title": "Judicial review",
+      "stem": "Judicial Review",
+      "options": [
+        "Another term for default judgment.",
+        "Compensation for the loss directly and necessarily incurred by a breach of contract.",
+        "The authority of a court to review the official actions of other branches of government.",
+        "The immunity of a judge from civil liability for any acts performed in the judge's official capacity."
+      ],
+      "answer": 2,
+      "translation": "Judicial review 最贴切的定义是什么？",
+      "rule": "Judicial review：法院审查政府行为是否符合法律或宪法的权力。",
+      "explanations": [
+        "Default judgment是缺席判决。",
+        "B是合同损失赔偿。",
+        "C准确描述司法审查。",
+        "D是司法豁免，不是司法审查。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q5",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          11
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Marbury v. Madison",
+          "url": "https://supreme.justia.com/cases/federal/us/5/137/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-006",
+      "topic": "法律英语",
+      "title": "Next friend",
+      "stem": "Next Friend",
+      "options": [
+        "A person convicted of a misdemeanor.",
+        "A human being, as opposed to artificial or fictitious “person”： such as corporations.",
+        "A person appointed by the court to appear on behalf of a minor or incompetent Person who is a plaintiff in a civil action.",
+        "The term is used generally with two meanings: nearest blood relations according to law of consanguinity and those entitled to take under statutory distribution of intestates’ estates."
+      ],
+      "answer": 2,
+      "translation": "Next friend 在本题的诉讼语境中是什么意思？",
+      "rule": "Next friend 是为无能力自行诉讼者提出或进行诉讼的代表；不等同于日常“好友”。",
+      "explanations": [
+        "被判轻罪的人不是next friend。",
+        "B解释自然人。",
+        "C是本题的最佳定义；具体代表资格仍受程序要求约束。",
+        "D不是这种诉讼代表的含义。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q6",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          11
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": true,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-008",
+      "topic": "法律英语",
+      "title": "De novo",
+      "stem": "De Novo",
+      "options": [
+        "Latin word meaning to start over from beginning.",
+        "To respond to a civil complaint by filing a demurrer.",
+        "A declaration of a statement truth, which renders one willfully asserting an untrue statement punishable for perjury.",
+        "The rule preventing illegally obtained evidence, such as property found during an illegal search, from being used in any trial."
+      ],
+      "answer": 0,
+      "translation": "De novo 的基本法律含义是什么？",
+      "rule": "De novo：重新、从头进行；de novo review通常表示对相关法律问题作独立审查。",
+      "explanations": [
+        "A给出基本含义；具体审查范围依程序而定。",
+        "B是通过demurrer回应诉状。",
+        "C涉及宣誓陈述与伪证。",
+        "D描述排除非法证据的规则。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q8",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          12
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": true,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-015",
+      "topic": "国会权力",
+      "title": "州的权力：EXCEPT",
+      "stem": "The states may, under the U.S. Constitution, do all of the following EXCEPT.",
+      "options": [
+        "maintain educational systems",
+        "set up their own police departments",
+        "provide for standing armies for self-defense",
+        "make their own laws regulating commerce within their borders"
+      ],
+      "answer": 2,
+      "translation": "依美国宪法，以下哪一项不是州通常可以自行实施的事项？",
+      "rule": "州具有一般police power；保有部队受到Article I, Section 10的限制，须注意国会同意等宪法条件。",
+      "explanations": [
+        "教育通常属于州管理事务。",
+        "州可以设立警察部门。",
+        "C最佳：州不能不受宪法限制地自行维持常备军；这不否认州民兵或国民警卫队制度。",
+        "州通常能管理境内商业，但仍受有效联邦法与其他宪法限制。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q15",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          13
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article I",
+          "url": "https://www.law.cornell.edu/constitution/articlei"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-052",
+      "topic": "Standing",
+      "title": "赠送飞机与竞争受让人",
+      "stem": "In compliance with a federal statute that permits government agencies to sell or give away surplus government property, the Secretary of State directed that one of the State Departments surplus airplanes be given to the International Evangelical Church. The Secretary knew that the church planned to use the plane to fly medical supplies to its missions in Third World countries. These missions provide medical assistance, but they also attempt to evangelize residents of the countries in question， and the Secretary was aware that, in addition to medical supplies, the plane might transport Bibles and religious tracts translated into local languages. Had the Secretary not ordered the plane to be given to the International Evangelical Church， it would have been sold at a very reasonable cost to the Future Flyers of America， a nonprofit organization that helps teach young people the fundamental of piloting and maintaining aircraft Which of the following parties would be most likely to have standing to sue to prevent the Secretary of State from making the gift to the church？",
+      "options": [
+        "A taxpayer.",
+        "A citizen of the United States.",
+        "Future Flyer of America.",
+        "The Attorney General of the State in which the airplane is located"
+      ],
+      "answer": 2,
+      "translation": "联邦拟把飞机赠给教会；如不赠送，本会优惠出售给飞行公益组织。谁最可能有standing阻止赠送？",
+      "rule": "Standing要求具体injury、causation和redressability；不能只靠纳税人或公民身份。",
+      "explanations": [
+        "普通纳税人身份不够；财产处分不属于Flast的狭窄适用路径。",
+        "仅仅是公民，没有具体个人损害。",
+        "C失去具体购买机会，损害与赠送决定相连，法院救济可能补救。",
+        "州总检察长的职务身份本身不能代替具体standing依据。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q52",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          22
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Lujan v. Defenders of Wildlife",
+          "url": "https://supreme.justia.com/cases/federal/us/504/555/"
+        },
+        {
+          "title": "Valley Forge",
+          "url": "https://supreme.justia.com/cases/federal/us/454/464/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-001",
+      "topic": "法律英语",
+      "title": "Abrogate",
+      "stem": "Abrogate",
+      "options": [
+        "In a civil case, one who makes a complaint, often referred to as the “plaintiff.”",
+        "To leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft.",
+        "Formally repeal or do away with a law, right or formal agreement.",
+        "Someone who gives assistance to the perpetrator of crime, without directly committing it, sometimes without being present."
+      ],
+      "answer": 2,
+      "translation": "Abrogate 在法律英语中的基本含义是什么？",
+      "rule": "Abrogate：正式废除、取消；abrogate immunity指依法排除豁免，须另查权限是否有效。",
+      "explanations": [
+        "A定义complainant。",
+        "B是潜逃、逃匿。",
+        "C是abrogate的基本含义。",
+        "D是犯罪帮助者。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q1",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          84
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Fourteenth Amendment",
+          "url": "https://www.law.cornell.edu/constitution/amendmentxiv"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-005",
+      "topic": "法律英语",
+      "title": "En banc",
+      "stem": "En Banc",
+      "options": [
+        "Variant spelling of impanel.",
+        "All the judges of a court sitting together. If a case is heard or reheard by the full court, it is heard en banc.",
+        "The authority of a court to review the official actions of other branches of government.",
+        "The immunity of a judge from civil liability for any acts performed in the judge's official capacity."
+      ],
+      "answer": 1,
+      "translation": "En banc 描述什么审理方式？",
+      "rule": "En banc通常指由全院或依法组成的全院审理机制审理；与通常的小组审理区分。",
+      "explanations": [
+        "不是impanel的拼写变体。",
+        "B是原题最佳定义；实际有资格参加的法官及人数依该法院规则。",
+        "C是judicial review。",
+        "D是judicial immunity。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q5",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          85
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": true,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-016",
+      "topic": "司法权与法院",
+      "title": "Court of appeals审查哪一层？",
+      "stem": "Which decision is ordinarily reviewed by a U.S. court of appeals?",
+      "options": [
+        "A decision made by a U.S. district court within its circuit.",
+        "A decision made by a state agency, such as a board of education.",
+        "A decision made by a state trial court.",
+        "A decision made by any federal trial court, regardless of circuit."
+      ],
+      "answer": 0,
+      "translation": "美国联邦巡回上诉法院通常复审哪个法院的裁判？",
+      "rule": "基本路线：federal district court → 同巡回区court of appeals → Supreme Court的复审。",
+      "explanations": [
+        "A是基本法院层级关系；本题聚焦普通地区法院上诉。",
+        "不能仅因州机关作出决定，就向联邦巡回上诉法院普通上诉。",
+        "州审判法院的通常上诉沿州法院系统进行。",
+        "并非任意巡回区的所有联邦初审法院都由该院复审。"
+      ],
+      "source": {
+        "kind": "LEC校订题",
+        "label": "LEC 2017-11 · 卷一 Q16",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          87
+        ],
+        "note": "校订原题把具体上诉权限笼统称为宪法授权的表述；具体管辖由联邦法律规定。保留原题所测法院层级关系。"
+      },
+      "authorities": [
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-019",
+      "topic": "司法权与法院",
+      "title": "联邦法院基本三级",
+      "stem": "What is the three-tier hierarchy of the basic federal court system in the United States？",
+      "options": [
+        "the District Court, the Court of Appeals, the Supreme Court.",
+        "the Claims Court, the Tax Court, the District Court.",
+        "the District Court, the Circuit Court, the Superior Court.",
+        "the District Court, the Court of Appeals, the Superior Court."
+      ],
+      "answer": 0,
+      "translation": "美国联邦法院系统的基本三级结构是什么？",
+      "rule": "基本三级：District Court、Court of Appeals、Supreme Court。另有特别法院和法定特殊路线。",
+      "explanations": [
+        "A正确。",
+        "B不是普通联邦法院三级结构。",
+        "Superior Court通常是州法院名称。",
+        "D的最高层名称错误。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q19",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          87
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-036",
+      "topic": "司法权与法院",
+      "title": "Judicial review的来源",
+      "stem": "Which of the constitutional clause gives the US Supreme Court the judicial review power？",
+      "options": [
+        "Establishment Clause.",
+        "Taking Clause.",
+        "Interstate Commerce Clause.",
+        "None."
+      ],
+      "answer": 3,
+      "translation": "列出的哪一项条款直接授予最高法院judicial review power？",
+      "rule": "所列三个条款均非该权力的直接授予条款；Marbury是司法审查的经典判例。",
+      "explanations": [
+        "Establishment Clause涉及政府与宗教。",
+        "Takings Clause涉及征收补偿。",
+        "Commerce Clause是国会商业管制权依据。",
+        "D表示所列条款均不对，不是说最高法院没有judicial review。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q36",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          91
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Marbury v. Madison",
+          "url": "https://supreme.justia.com/cases/federal/us/5/137/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-040",
+      "topic": "Standing",
+      "title": "可能迁居、可能怀孕够不够？",
+      "stem": "City A requires pregnant residents to pay $100 to a city fund. Cathy lives and studies in City B. She challenges the rule in federal court, alleging only that she might move to City A and might become pregnant. Which is the best assessment of her standing?",
+      "options": [
+        "These speculative possibilities do not establish a concrete, actual or imminent injury.",
+        "She necessarily has standing because she might become pregnant.",
+        "She has standing solely because she strongly believes the rule is unconstitutional.",
+        "A nonresident can never have standing to challenge a city rule."
+      ],
+      "answer": 0,
+      "translation": "Cathy住在B市，反对A市向孕妇收费。她仅表示将来可能迁居且可能怀孕。对standing最准确的判断是什么？",
+      "rule": "Injury必须具体且actual或足够imminent；连串抽象可能性通常不够。",
+      "explanations": [
+        "A正确：所给事实没有充分证明具体或迫近的injury。",
+        "B把“可能”自动等同于imminent，错误。",
+        "C仅凭反对某规则不产生standing。",
+        "D过于绝对；外地人若受到足够具体的影响，也可能有standing。"
+      ],
+      "source": {
+        "kind": "LEC校订题",
+        "label": "LEC 2017-11 · 卷一 Q40",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          91,
+          92
+        ],
+        "note": "原题没有足够稳妥的正确选项，书后把多重“可能”直接当作迫近损害。此处保留事实、重写设问与选项，按Article III标准校订；不冒称原题答案。"
+      },
+      "authorities": [
+        {
+          "title": "Lujan v. Defenders of Wildlife",
+          "url": "https://supreme.justia.com/cases/federal/us/504/555/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-058",
+      "topic": "Taxing & spending",
+      "title": "拨款用于打击白领犯罪",
+      "stem": "Which of the following would provide the best constitutional underpinning for federal legislation requiring that state and local police departments receiving financial assistance from the Federal Law Enforcement Assistance Agency devote a specified amount of those resources to combating white-collar” crimes？",
+      "options": [
+        "The power to enforce the penal statutes of the United States.",
+        "The police power.",
+        "The war and defense power.",
+        "The power to tax and spend for the general welfare."
+      ],
+      "answer": 3,
+      "translation": "要求接受联邦执法资金的州、地方警察部门，将部分资金用于打击白领犯罪，最适合找哪项权限依据？",
+      "rule": "Congress可依spending power在联邦拨款中设置适当条件；仍须检查清晰性、相关性及coercion等限制。",
+      "explanations": [
+        "A不是本题“对接受资助者附条件”的最佳依据。",
+        "Congress没有州那样的一般police power。",
+        "与战争、国防无关。",
+        "D最佳：Article I, Section 8, Clause 1的taxing and spending power。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q58",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          96
+        ],
+        "note": "仅整理断行、标点和明显OCR错误；答案与解析经本题库复核，不照搬书后解释。"
+      },
+      "authorities": [
+        {
+          "title": "Article I",
+          "url": "https://www.law.cornell.edu/constitution/articlei"
+        },
+        {
+          "title": "South Dakota v. Dole",
+          "url": "https://supreme.justia.com/cases/federal/us/483/203/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-01",
+      "topic": "Standing",
+      "title": "Standing通过不等于merits胜诉",
+      "stem": "Future Flyers proves that it lost a specific opportunity to buy a surplus federal airplane because the government donated it to a church. The court holds that Future Flyers has standing. What follows?",
+      "options": [
+        "The court has already held that the donation violates the Establishment Clause.",
+        "The standing holding alone does not decide whether the donation is unconstitutional.",
+        "All federal taxpayers now have standing to challenge the donation.",
+        "The donation must be valid because it concerns federal property."
+      ],
+      "answer": 1,
+      "translation": "竞争购买人证明standing后，是否已经证明赠送飞机违宪？",
+      "rule": "Standing与merits是两个不同问题。",
+      "explanations": [
+        "Standing不是实体违宪结论。",
+        "B正确：资格通过，实体主张仍须另外审理。",
+        "某原告具备具体损害，不会赋予所有纳税人资格。",
+        "财产权力也受宪法限制。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 2017-05 卷一 Q52",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "note": "依据原题情境或所测规则改写；不是原题逐字复现，答案为本题库独立解析。"
+      },
+      "authorities": [
+        {
+          "title": "Lujan v. Defenders of Wildlife",
+          "url": "https://supreme.justia.com/cases/federal/us/504/555/"
+        },
+        {
+          "title": "Valley Forge",
+          "url": "https://supreme.justia.com/cases/federal/us/454/464/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-02",
+      "topic": "国会权力",
+      "title": "公共安全不是无限权限",
+      "stem": "Congress defends a new regulatory law solely by saying it promotes public safety and is therefore necessary and proper. What is missing from this argument?",
+      "options": [
+        "A constitutional power that the chosen measure carries into execution.",
+        "Consent from every state governor.",
+        "An express constitutional reference to that exact regulatory technique.",
+        "Proof that no alternative technique exists."
+      ],
+      "answer": 0,
+      "translation": "Congress只说某措施有助公共安全且necessary and proper，权限论证还缺什么？",
+      "rule": "Necessary and Proper须与宪法授予的权力相连接，不是独立无限权限。",
+      "explanations": [
+        "A正确：先找到被实施的授权。",
+        "并非每项联邦立法都要州长同意。",
+        "具体手段不必逐字写进宪法。",
+        "Necessary不要求世界上不存在替代方案。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 2017-05 卷一 Q15",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "note": "依据原题情境或所测规则改写；不是原题逐字复现，答案为本题库独立解析。"
+      },
+      "authorities": [
+        {
+          "title": "Article I",
+          "url": "https://www.law.cornell.edu/constitution/articlei"
+        },
+        {
+          "title": "McCulloch v. Maryland",
+          "url": "https://supreme.justia.com/cases/federal/us/17/316/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-03",
+      "topic": "Taxing & spending",
+      "title": "接受资助也有宪法边界",
+      "stem": "Congress offers states law-enforcement grants with clear conditions related to the program. One condition would require state police to discriminate in a way that violates equal protection. Which is most accurate?",
+      "options": [
+        "The condition is valid whenever Congress pays for the program.",
+        "State acceptance cures every constitutional defect.",
+        "Spending conditions cannot induce states to engage in conduct that is itself unconstitutional.",
+        "All conditions on federal grants are invalid."
+      ],
+      "answer": 2,
+      "translation": "资金条件清晰、相关，但要求州实施本身违宪的歧视，是否仍可有效？",
+      "rule": "Conditional spending不能要求受资助者实施本身违宪的行为。",
+      "explanations": [
+        "联邦出钱不排除宪法限制。",
+        "州同意不能治愈这种违宪要求。",
+        "C正确。",
+        "适当的拨款条件可以有效，不是全部禁止。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 2017-11 卷一 Q58",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "note": "依据原题情境或所测规则改写；不是原题逐字复现，答案为本题库独立解析。"
+      },
+      "authorities": [
+        {
+          "title": "South Dakota v. Dole",
+          "url": "https://supreme.justia.com/cases/federal/us/483/203/"
+        },
+        {
+          "title": "Fourteenth Amendment",
+          "url": "https://www.law.cornell.edu/constitution/amendmentxiv"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-01",
+      "topic": "Standing",
+      "title": "The claim fails on the merits",
+      "stem": "A court states: \"The plaintiff has standing, but the claim fails on the merits.\" What does this mean?",
+      "options": [
+        "The plaintiff lacks the required personal stake.",
+        "Every possible jurisdictional requirement has necessarily been satisfied.",
+        "The plaintiff meets standing requirements, but the substantive claim does not succeed.",
+        "The court has issued only an advisory opinion."
+      ],
+      "answer": 2,
+      "translation": "原告有standing，但claim在merits上失败，是什么意思？",
+      "rule": "具备起诉资格，不等于实体主张成立。",
+      "explanations": [
+        "与has standing相反。",
+        "有standing不等于全部程序条件都满足。",
+        "C正确：资格与实体结论分开。",
+        "这句话没有说法院在给咨询意见。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Lujan v. Defenders of Wildlife",
+          "url": "https://supreme.justia.com/cases/federal/us/504/555/"
+        },
+        {
+          "title": "Article III",
+          "url": "https://www.law.cornell.edu/constitution/articleiii"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-02",
+      "topic": "Standing",
+      "title": "Flast exception的范围",
+      "stem": "Federal taxpayers challenge a specific congressional expenditure under the Taxing and Spending Clause, alleging an Establishment Clause violation. Which statement best describes Flast?",
+      "options": [
+        "Taxpayer status gives standing to challenge every federal action.",
+        "Flast recognizes a narrow taxpayer-standing exception for this type of claim, subject to its requirements.",
+        "Flast permits only damages claims against state officers.",
+        "Flast applies automatically to every executive property transfer."
+      ],
+      "answer": 1,
+      "translation": "Flast exception针对什么范围？",
+      "rule": "Flast是狭窄的taxpayer-standing例外，不是一般standing的全面豁免。",
+      "explanations": [
+        "一般纳税人身份不够。",
+        "B正确：须符合特定联系和限制。",
+        "与官员个人赔偿不是一回事。",
+        "Valley Forge式财产处分不会自动落入Flast。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Flast v. Cohen",
+          "url": "https://supreme.justia.com/cases/federal/us/392/83/"
+        },
+        {
+          "title": "Valley Forge",
+          "url": "https://supreme.justia.com/cases/federal/us/454/464/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-03",
+      "topic": "Ripeness & mootness",
+      "title": "执法前能不能起诉？",
+      "stem": "A final drug-labeling rule imposes definite duties. Manufacturers must spend substantial sums to comply or risk prosecution. The dispute is a legal question needing no further factual development. Must they first violate the rule and be punished?",
+      "options": [
+        "Yes; every pre-enforcement challenge is unripe.",
+        "Yes; a declaratory judgment is never available.",
+        "No; fitness and hardship may support pre-enforcement review.",
+        "No; merely requesting a declaratory judgment automatically establishes ripeness."
+      ],
+      "answer": 2,
+      "translation": "规则最终且义务明确，企业面临合规成本或追诉风险，是否必须先挨罚？",
+      "rule": "Ripeness关注fitness与hardship，不机械要求处罚已经发生。",
+      "explanations": [
+        "执法前审查并非一概不允许。",
+        "确认判决可能是适当救济。",
+        "C正确：结合规则明确程度与等待的现实负担。",
+        "救济名称不能替代成熟性分析。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Abbott Laboratories v. Gardner",
+          "url": "https://supreme.justia.com/cases/federal/us/387/136/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-04",
+      "topic": "Ripeness & mootness",
+      "title": "Capable of repetition, yet evading review",
+      "stem": "A challenged restriction expires before full litigation can finish. The plaintiff seeks only prospective relief. Under the ordinary capable-of-repetition exception, what else is generally required?",
+      "options": [
+        "Someone, somewhere might encounter the restriction.",
+        "The plaintiff considers the issue important.",
+        "The defendant admits that its rule was unlawful.",
+        "A reasonable expectation that the same complaining party will face the challenged action again."
+      ],
+      "answer": 3,
+      "translation": "限制持续太短而来不及完成诉讼，通常还需要什么才能适用重复而逃避审查例外？",
+      "rule": "一般要求持续时间过短，并合理预期同一原告再次遭遇；纯理论可能性不够。",
+      "explanations": [
+        "只说其他人可能遭遇通常不够。",
+        "议题重要不能代替例外条件。",
+        "不要求被告先承认违法。",
+        "D正确。集体诉讼等另有具体规则。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Weinstein v. Bradford",
+          "url": "https://supreme.justia.com/cases/federal/us/423/147/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-05",
+      "topic": "Political question",
+      "title": "党派划区与种族划区",
+      "stem": "A voter brings a federal constitutional partisan-gerrymandering claim. Another voter brings a racial-gerrymandering claim. Which distinction is correct?",
+      "options": [
+        "Every politically controversial case is nonjusticiable.",
+        "Under Rucho, the partisan claim is nonjusticiable in federal court; the racial claim is judicially reviewable, without automatic success on the merits.",
+        "Both claims necessarily win on the merits.",
+        "Rucho bars every possible state-law remedy."
+      ],
+      "answer": 1,
+      "translation": "联邦宪法上的党派划区主张与种族划区主张有什么区别？",
+      "rule": "Political question不是所有政治敏感案件；可审查也不等于实体必胜。",
+      "explanations": [
+        "政治争议不等于技术意义的political question。",
+        "B正确，注意限定为联邦法院中的该类联邦宪法党派划区主张。",
+        "可审查与胜诉不同。",
+        "州宪法及政治程序可能提供其他救济。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Rucho v. Common Cause",
+          "url": "https://supreme.justia.com/cases/federal/us/588/18-422/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-06",
+      "topic": "州豁免与官员",
+      "title": "Ex parte Young与relief",
+      "stem": "Without waiver or valid abrogation, a plaintiff sues the state officer responsible for an ongoing violation of federal law in the officer's official capacity. Which request most clearly fits Ex parte Young?",
+      "options": [
+        "A prospective injunction stopping the ongoing violation.",
+        "An order that the state treasury pay compensation for past losses.",
+        "Every monetary award, provided an officer is named.",
+        "An order that changes only the plaintiff's opinion of the law."
+      ],
+      "answer": 0,
+      "translation": "告负责执法的州官员，哪种relief最典型地符合Young？",
+      "rule": "Young允许针对持续违反联邦法的行为请求prospective injunctive relief。",
+      "explanations": [
+        "A正确：未来禁令也是relief。未来合规花钱不自动等于追溯赔偿。",
+        "过去损失、州财政付款通常受豁免阻挡。",
+        "换成人名不能把追溯性州财政赔偿包装成Young请求。",
+        "不是能够解决争议的有效救济。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Ex parte Young",
+          "url": "https://www.law.cornell.edu/supremecourt/text/209/123"
+        },
+        {
+          "title": "Edelman v. Jordan",
+          "url": "https://www.law.cornell.edu/supremecourt/text/415/651"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-07",
+      "topic": "州豁免与官员",
+      "title": "Young之后还要看Younger",
+      "stem": "A state criminal prosecution is already pending. The accused can raise federal constitutional defenses there. No bad faith, harassment, or other exceptional circumstances are shown. The accused seeks a federal injunction stopping that prosecution. What is the principal concern?",
+      "options": [
+        "Any federal constitutional claim defeats abstention.",
+        "A request for prospective relief automatically defeats every other obstacle.",
+        "Younger abstention ordinarily counsels against this federal interference.",
+        "Federal courts must abstain whenever any ordinary state civil case exists."
+      ],
+      "answer": 2,
+      "translation": "已在州刑事追诉中且可提出宪法抗辩，另求联邦禁令停止追诉，要考虑什么？",
+      "rule": "Young处理豁免路径；Younger另外限制对特定正在进行的州程序的干预。",
+      "explanations": [
+        "重要宪法权利不自动排除Younger。",
+        "避开豁免不等于必得禁令。",
+        "C正确，须留意bad faith等例外。",
+        "不是所有州民事案件都触发Younger。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Younger v. Harris",
+          "url": "https://supreme.justia.com/cases/federal/us/401/37/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-08",
+      "topic": "司法权与法院",
+      "title": "Adequate and independent state ground",
+      "stem": "A state's highest available court invalidates a city ordinance under an independent state constitutional provision sufficient to support the judgment. It also says the ordinance satisfies the Federal Constitution. The city seeks U.S. Supreme Court review. Which is correct?",
+      "options": [
+        "The Court must hear the case because every constitutional question is important.",
+        "The case necessarily presents a political question.",
+        "The Court may rewrite the state constitution.",
+        "The adequate and independent state ground prevents review that could not change the judgment."
+      ],
+      "answer": 3,
+      "translation": "州宪法独立且足以支撑判决，联邦最高法院改变联邦法分析也不改变结果，能否复审？",
+      "rule": "Adequate and independent state ground：足以独立支持结果的州法依据。",
+      "explanations": [
+        "重要性不能克服这一限制。",
+        "不是political question。",
+        "最高法院不借此重新解释州宪法。",
+        "D正确；并非判决只要提到州法就不能复审。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Michigan v. Long",
+          "url": "https://supreme.justia.com/cases/federal/us/463/1032/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-09",
+      "topic": "国会权力",
+      "title": "银行不必逐字写进宪法",
+      "stem": "Congress establishes a national bank as an appropriate means of carrying out its granted fiscal powers. A challenger argues that the Constitution does not expressly mention a bank. What is the best response?",
+      "options": [
+        "Congress may do anything it regards as useful.",
+        "Appropriate implied means may implement granted powers even if that precise means is not expressly listed.",
+        "The means must be absolutely indispensable.",
+        "State consent is the sole source of congressional power."
+      ],
+      "answer": 1,
+      "translation": "设立国家银行未逐字列明，是否因此一定无权？",
+      "rule": "Necessary and Proper连接合法授予的权力与适当手段。",
+      "explanations": [
+        "有用不等于无限授权。",
+        "B正确，且仍须符合宪法限制。",
+        "Necessary不只指绝对不可缺少。",
+        "州同意不是这种权限的唯一来源。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "McCulloch v. Maryland",
+          "url": "https://supreme.justia.com/cases/federal/us/17/316/"
+        },
+        {
+          "title": "Article I",
+          "url": "https://www.law.cornell.edu/constitution/articlei"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-10",
+      "topic": "国会权力",
+      "title": "Intelligible principle",
+      "stem": "Assume Congress has power to enact an energy law. The law gives an agency authority to set a conservation percentage using specified standards and procedures. Is the delegation necessarily unconstitutional?",
+      "options": [
+        "Yes, because agencies may exercise no discretion.",
+        "Yes, because the exact percentage must appear in the Constitution.",
+        "No; Congress may confer discretion guided by an intelligible principle.",
+        "No; congressional delegations are completely unlimited."
+      ],
+      "answer": 2,
+      "translation": "法律给出目标、标准和程序，机关确定具体百分比，是否必然违宪授权？",
+      "rule": "Delegation可允许受指导、约束的裁量；不是完全没有限制。",
+      "explanations": [
+        "存在裁量不等于违宪。",
+        "具体技术比例无需写在宪法中。",
+        "C正确；仍须符合其他适用限制。",
+        "“授权完全无限制”错误。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "FCC v. Consumers’ Research",
+          "url": "https://www.law.cornell.edu/supremecourt/text/24-354"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-11",
+      "topic": "国会权力",
+      "title": "两种veto取消的对象",
+      "stem": "After an agency makes a decision under a valid statute, the House alone purports to nullify that decision. Separately, a statute permits the President to cancel selected provisions after a bill becomes law. Which is most accurate?",
+      "options": [
+        "Both arrangements are constitutional whenever an earlier statute authorizes them.",
+        "The first is ordinary presidential veto; the second is ordinary rulemaking.",
+        "Neither arrangement affects legal rights.",
+        "The one-house legislative veto and this line-item cancellation cannot bypass the constitutionally required lawmaking process."
+      ],
+      "answer": 3,
+      "translation": "单院取消行政决定，与总统取消已生效法律部分规定，应如何判断？",
+      "rule": "一院取消第二层行政决定；总统line-item取消第一层法律中的规定，均涉及立法程序边界。",
+      "explanations": [
+        "普通法律不能治愈此种宪法程序缺陷。",
+        "第一项不是总统行为；第二项不是普通执行裁量。",
+        "都可能改变法律权利义务。",
+        "D正确。正常法案阶段的总统veto与line-item取消已生效法条不同。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "INS v. Chadha",
+          "url": "https://supreme.justia.com/cases/federal/us/462/919/"
+        },
+        {
+          "title": "Clinton v. City of New York",
+          "url": "https://supreme.justia.com/cases/federal/us/524/417/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-12",
+      "topic": "国会权力",
+      "title": "Section 5 enforcement power",
+      "stem": "Congress invokes Section 5 of the Fourteenth Amendment. Which description best states the nature of that power?",
+      "options": [
+        "Power to prevent or remedy constitutional violations through appropriate legislation, with congruence and proportionality between the injury and the response.",
+        "Power to redefine every unfair state action as a constitutional violation.",
+        "The President's ordinary arrest power.",
+        "A rule abolishing state immunity whenever a statute mentions the Fourteenth Amendment."
+      ],
+      "answer": 0,
+      "translation": "第十四修正案Section 5授予的是什么性质的权力？",
+      "rule": "Section 5授权以适当立法落实修正案，不是任意改写宪法权利。",
+      "explanations": [
+        "A正确：预防、补救须与侵害相匹配、相称。",
+        "不公平不必然达到违宪程度。",
+        "这里是Congress通过立法保障宪法，不是一般抓捕执法。",
+        "Valid abrogation还须满足有效权限和明确意图等要求。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "Fourteenth Amendment",
+          "url": "https://www.law.cornell.edu/constitution/amendmentxiv"
+        },
+        {
+          "title": "City of Boerne v. Flores",
+          "url": "https://supreme.justia.com/cases/federal/us/521/507/"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-13",
+      "topic": "Taxing & spending",
+      "title": "Tax还是penalty？",
+      "stem": "In the 2012 NFIB decision, Congress called the payment for going without health insurance a \"penalty.\" Which statement accurately describes the constitutional taxing-power analysis?",
+      "options": [
+        "The label penalty alone made the provision unconstitutional.",
+        "Raising any amount of money automatically makes every exaction valid.",
+        "The Court examined substance and operation, and upheld that payment arrangement under the taxing power.",
+        "A tax can never influence conduct."
+      ],
+      "answer": 2,
+      "translation": "2012年NFIB如何分析被称作penalty的付款安排？",
+      "rule": "税的宪法性质看实质运作；影响行为不自动排除taxing power。",
+      "explanations": [
+        "名称不是该宪法判断的决定因素。",
+        "产生收入也不能排除其他宪法限制。",
+        "C正确，描述2012年判决，不是声称今日仍征收同一金额。",
+        "税可以同时影响行为。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "NFIB v. Sebelius",
+          "url": "https://www.law.cornell.edu/supremecourt/text/11-393"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lesson-14",
+      "topic": "Taxing & spending",
+      "title": "Dole与NFIB的资金压力",
+      "stem": "Which statement best compares conditional spending in Dole and the Medicaid expansion issue in NFIB?",
+      "options": [
+        "Every financial incentive is unconstitutional coercion.",
+        "Dole upheld the relatively modest highway-fund inducement; NFIB rejected threatening existing Medicaid funds to compel acceptance of the expansion.",
+        "NFIB invalidated all federal funding conditions.",
+        "There is a universal numerical percentage that resolves every coercion dispute."
+      ],
+      "answer": 1,
+      "translation": "Dole的公路资助与NFIB的Medicaid扩展，怎样横向比较？",
+      "rule": "联邦可适当鼓励，但不能把资金压力推到没有真正选择的coercion程度。",
+      "explanations": [
+        "诱因不自动等于胁迫。",
+        "B正确：比较具体安排及现实选择，而非只看钱的名称。",
+        "适当条件仍可能有效。",
+        "不存在能机械解决全部案件的统一比例公式。"
+      ],
+      "source": {
+        "kind": "课堂练习",
+        "label": "讨论／讲义改编 · MBE风格",
+        "note": "根据已讲规则独立编写；不是LEC原题，也不是NCBE官方MBE真题。"
+      },
+      "authorities": [
+        {
+          "title": "South Dakota v. Dole",
+          "url": "https://supreme.justia.com/cases/federal/us/483/203/"
+        },
+        {
+          "title": "NFIB v. Sebelius",
+          "url": "https://www.law.cornell.edu/supremecourt/text/11-393"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    }
+  ]
+}

@@ -1,2 +1,28 @@
-# lec-study-bank
-Mobile-friendly LEC constitutional law practice with source labels, explanations and local progress.
+# LEC 宪法随身练
+
+手机练习入口：https://faithff-99.github.io/lec-study-bank/
+
+首批 30 题，2026-10-30 更新。英文题干与选项、可展开中文辅助、逐项解析、法源链接、按知识点与来源筛选、每组 5/10/全部、收藏、错题重练、断点继续、进度备份。
+
+## 题源
+
+- 11 道 LEC 汇编原题：只整理断行、标点和明显 OCR 错误。
+- 2 道 LEC 校订题：明确说明原题问题及实质调整，不把校订答案冒充原题书后答案。
+- 3 道 LEC 改编题：保留可追溯的原题编号。
+- 14 道课堂练习：依据讨论及讲义编写的 MBE 风格题，不是 NCBE 官方 MBE 真题。
+
+LEC 来源为用户提供的《法律英语证书(LEC)全国统一考试真题解析(2017-2019)》汇编，未独立核验为官方发布原卷。每题附书名、题号、PDF 页码（适用时）及独立解析。第一辑聚焦联邦司法权、standing、ripeness、mootness、political question、州豁免、国会权力、税收支出及相关英语。
+
+## 记录与备份
+
+答题记录保存在当前浏览器，不上传到 GitHub。GitHub 保存题库和页面代码。手机和电脑不会自动同步；首页可导出 JSON 备份，在另一设备导入。同题保留较新记录，收藏合并。浏览器清除网站数据可能清除记录。
+
+练习统计与辅导中的知识点熟悉清单相互独立；不会因为做对一题自动标记一个知识单元掌握。
+
+## 后续更新
+
+直接维护 `questions.json`，保留既有题目 `id`，新题使用新 ID。页面自动按实际题库更新列表和计数。修改题库后更新 `version` 与 `updated`；更改题意或选项顺序时应使用新 ID，以免旧记录指向不同答案。
+
+每题字段：`id`、`topic`、`title`、`stem`、`options`（4项）、`answer`（从0计）、`translation`、`rule`、`explanations`（4项）、`source`、`authorities`、`extension`。不要在公开仓库提交个人学习记录、账号凭据或整本教材。
+
+无需构建或外部依赖。GitHub Pages 使用 `main` 分支根目录发布。
