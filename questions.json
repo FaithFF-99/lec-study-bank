@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.30.1",
-  "updated": "2026-10-30",
-  "title": "LEC 宪法随身练",
-  "sourceNote": "LEC题源为用户提供的历年真题解析汇编；未独立核验为官方发布原卷。保留出处，校订与改编明确区分。课堂练习不是NCBE官方题。",
+  "version": "2026.11.01.1",
+  "updated": "2026-11-01",
+  "title": "LEC 全科随身练",
+  "sourceNote": "LEC题源为用户提供的历年真题解析汇编；未独立核验为官方发布原卷。保留出处，校订与改编明确区分。课堂练习不是NCBE官方题。 WTO专项为依据官方规则独立编写的基础练习。",
   "questions": [
     {
       "id": "lec-2017-05-001",
@@ -40,7 +40,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "术语与文化"
     },
     {
       "id": "lec-2017-05-005",
@@ -78,7 +79,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-05-006",
@@ -116,7 +118,8 @@
         }
       ],
       "extension": true,
-      "terms": []
+      "terms": [],
+      "subject": "术语与文化"
     },
     {
       "id": "lec-2017-05-008",
@@ -154,7 +157,8 @@
         }
       ],
       "extension": true,
-      "terms": []
+      "terms": [],
+      "subject": "术语与文化"
     },
     {
       "id": "lec-2017-05-015",
@@ -192,7 +196,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-05-052",
@@ -234,7 +239,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-11-001",
@@ -272,7 +278,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "术语与文化"
     },
     {
       "id": "lec-2017-11-005",
@@ -310,7 +317,8 @@
         }
       ],
       "extension": true,
-      "terms": []
+      "terms": [],
+      "subject": "术语与文化"
     },
     {
       "id": "lec-2017-11-016",
@@ -348,7 +356,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-11-019",
@@ -386,7 +395,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-11-036",
@@ -424,7 +434,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-11-040",
@@ -463,7 +474,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-2017-11-058",
@@ -505,7 +517,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-adapt-01",
@@ -544,7 +557,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-adapt-02",
@@ -583,7 +597,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lec-adapt-03",
@@ -622,7 +637,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-01",
@@ -660,7 +676,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-02",
@@ -698,7 +715,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-03",
@@ -732,7 +750,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-04",
@@ -766,7 +785,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-05",
@@ -800,7 +820,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-06",
@@ -838,7 +859,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-07",
@@ -872,7 +894,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-08",
@@ -906,7 +929,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-09",
@@ -944,7 +968,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-10",
@@ -978,7 +1003,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-11",
@@ -1016,7 +1042,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-12",
@@ -1054,7 +1081,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-13",
@@ -1088,7 +1116,8 @@
         }
       ],
       "extension": false,
-      "terms": []
+      "terms": [],
+      "subject": "宪法"
     },
     {
       "id": "lesson-14",
@@ -1123,6 +1152,2741 @@
         {
           "title": "NFIB v. Sebelius",
           "url": "https://www.law.cornell.edu/supremecourt/text/11-393"
+        }
+      ],
+      "extension": false,
+      "terms": [],
+      "subject": "宪法"
+    },
+    {
+      "id": "lec-adapt-2017-05-061-v1",
+      "subject": "合同法",
+      "topic": "货物买卖",
+      "title": "付款不等于放弃inspection",
+      "stem": "Under UCC Article 2, Accucomp buys printers on cash-on-delivery terms and pays before it has an opportunity to inspect. What is the effect of that payment alone?",
+      "options": [
+        "Accucomp retains its right to inspect the printers.",
+        "Accucomp waives inspection by paying first.",
+        "Accucomp may inspect only if the contract expressly reserves that right.",
+        "The seller is discharged from all liability for nonconforming goods."
+      ],
+      "answer": 0,
+      "translation": "买方按约先付款后验货，付款是否消灭验货权？",
+      "rule": "UCC §2-512：按约在inspection前付款，本身不构成acceptance，也不剥夺验货及救济。",
+      "explanations": [
+        "正确。先付款与验货权是两个问题。",
+        "付款本身不是放弃验货。",
+        "未约定先验货，不等于永远不能验货。",
+        "付款不是免除一切不合格交货责任。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q61",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          27
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "UCC § 2-512",
+          "url": "https://www.law.cornell.edu/ucc/2/2-512"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-062-v1",
+      "subject": "合同法",
+      "topic": "货物买卖",
+      "title": "转售哪些货物就接受哪些？",
+      "stem": "Accucomp receives ten printers, each a separate commercial unit. After inspection, it expressly agrees to retain two despite their defects and resells those two. It promptly and effectively rejects the other eight. Under UCC Article 2, it has accepted:",
+      "options": [
+        "None of the printers.",
+        "The two retained and resold printers.",
+        "All ten printers in the shipment.",
+        "All printers due under the entire installment contract."
+      ],
+      "answer": 1,
+      "translation": "十台独立的打印机中，买方明知问题仍同意保留并转售两台；acceptance涵盖多少？",
+      "rule": "明确同意保留不合格货物可构成acceptance；接受一个独立commercial unit，不自动等于接受整份分批合同。",
+      "explanations": [
+        "明知问题仍保留转售，不是全部拒绝。",
+        "正确。本题只证明接受这两台。",
+        "没有理由把另外八台自动算作接受。",
+        "一次部分接受不等于接受未来所有批次。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q62",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          27,
+          28
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "UCC § 2-606",
+          "url": "https://www.law.cornell.edu/ucc/2/2-606"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-063-v1",
+      "subject": "合同法",
+      "topic": "违约与救济",
+      "title": "Accepted goods的价值差额",
+      "stem": "A buyer accepts defective printers and gives timely notice of breach. No special circumstances change the ordinary measure of warranty damages under UCC §2-714. The basic measure is:",
+      "options": [
+        "Zero, because acceptance waives every warranty.",
+        "The entire contract price in every case.",
+        "The value as warranted minus the actual value at the time and place of acceptance.",
+        "The buyer's hoped-for resale price, without any deduction."
+      ],
+      "answer": 2,
+      "translation": "已接受的货物不符合warranty，基本损失如何计算？",
+      "rule": "UCC §2-714通常比较acceptance时、当地“符合保证应有价值”与“实际接受货物价值”；特殊情形及附带、间接损失另论。",
+      "explanations": [
+        "接受货物不等于自动放弃warranty损害赔偿。",
+        "全额合同价不是每种瑕疵的自动损失额。",
+        "正确：这里是价值差额，不机械等同于合同价差。",
+        "买方未来卖价不是本条通常的计算标准。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q63",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          27,
+          28
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "UCC § 2-714",
+          "url": "https://www.law.cornell.edu/ucc/2/2-714"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-067-v1",
+      "subject": "合同法",
+      "topic": "合同成立",
+      "title": "Silence不是当然的acceptance",
+      "stem": "After a deck is completed, the owner proposes separate, additional modifications. The contractor neither promises nor performs them and merely collects an undisputed payment already due for the original work. No course of dealing or other circumstance makes silence acceptance. Which is most accurate?",
+      "options": [
+        "The contractor accepts every new proposal by remaining silent.",
+        "The original contract automatically includes all later requests.",
+        "Collecting the existing debt necessarily accepts the new proposal.",
+        "The contractor has not accepted the separate offer."
+      ],
+      "answer": 3,
+      "translation": "屋主提出额外改造要求，承包人既未承诺也未施工，沉默是否表示接受？",
+      "rule": "一般而言，offeree的silence不构成acceptance；要另看既往交易、受益或其他使沉默具有承诺意义的条件。",
+      "explanations": [
+        "不是所有沉默都表示同意。",
+        "原合同存在，不代表后来任何提议都成为合同。",
+        "收取既有到期款不当然承诺额外工作。",
+        "正确。题干排除了特殊沉默接受情形。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q67",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          28,
+          29,
+          30
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · acceptance",
+          "url": "https://www.law.cornell.edu/wex/acceptance"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-065-v1",
+      "subject": "合同法",
+      "topic": "合同解释",
+      "title": "Mistake in integration",
+      "stem": "Steven and Barny agree on a $79,000 land price. Their final writing mistakenly states $74,000, and both overlook the drafting error. Which best supports reforming the writing to reflect their agreement?",
+      "options": [
+        "A mistake in integration: the writing fails to express their common agreement.",
+        "A complete absence of agreement on any price.",
+        "A rule that a signed writing can never be corrected.",
+        "Steven's later unilateral wish to charge more."
+      ],
+      "answer": 0,
+      "translation": "双方约定79,000，书面因笔误记为74,000，双方都漏看；哪种主张最切题？",
+      "rule": "Mistake in integration指书面文件未准确表达双方真实协议；符合条件可请求reformation。不是双方从未谈拢价格。",
+      "explanations": [
+        "正确。错误发生在书面表达共同协议的环节。",
+        "题干说双方已就79,000达成一致。",
+        "书面并非永远不能校正。",
+        "不能借笔误随意改成另一价格。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q65",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          98,
+          99
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · reformation",
+          "url": "https://www.law.cornell.edu/wex/reformation"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-066-v1",
+      "subject": "合同法",
+      "topic": "货物买卖",
+      "title": "Installment contract与cure",
+      "stem": "A UCC installment supply contract has a curable defect in one delivery. The seller provides adequate assurance of a timely cure, and the defect does not substantially impair the value of the whole contract. The buyer wants to cancel solely because it has lost interest in its new business. Which is best?",
+      "options": [
+        "Any imperfect installment automatically permits cancellation of the whole contract.",
+        "The seller may impose any new price as a cure.",
+        "The entire contract is necessarily breached beyond cure.",
+        "These facts do not justify canceling the entire contract merely on a perfect-tender theory."
+      ],
+      "answer": 3,
+      "translation": "分批交货出现可补救的不合格，有充分及时补救保证，能否只因改变经营意愿取消全部？",
+      "rule": "UCC §2-612对installment contract另设标准；须看该批价值、补救保证以及whole contract的实质受损，不能机械套每次perfect tender即取消全约。",
+      "explanations": [
+        "分批合同不能直接这样机械处理。",
+        "卖方补救不能单方强加一份新价格合同。",
+        "本题没有whole contract实质受损。",
+        "正确。买方改变商业兴趣不替代取消条件。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q66",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          99
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "UCC § 2-612",
+          "url": "https://www.law.cornell.edu/ucc/2/2-612"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-067-v1",
+      "subject": "合同法",
+      "topic": "违约与救济",
+      "title": "Anticipatory repudiation",
+      "stem": "After two proper monthly deliveries, Chipco unequivocally tells Duncan it will make no more deliveries under their one-year chip-supply contract. The refusal substantially impairs the contract's value, and there is no contractual excuse. What is the best characterization?",
+      "options": [
+        "No breach can occur until the next delivery date passes.",
+        "An automatic right to terminate because the seller dislikes the buyer's cookies.",
+        "Anticipatory repudiation of the remaining obligations.",
+        "A rejection of goods by the buyer."
+      ],
+      "answer": 2,
+      "translation": "卖方明确拒绝尚未到期的剩余供货，买方一定要等下批交货日吗？",
+      "rule": "对尚未到期的重要履行作明确拒绝，可构成anticipatory repudiation；受害方可依法采取违约救济。",
+      "explanations": [
+        "明确拒绝未来重要履行，可以先构成违约。",
+        "单纯主观不喜欢买方产品不是合同解除权。",
+        "正确。与仅担忧履行能力区分。",
+        "本题不是买方拒绝付款。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q67",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          99,
+          100
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "UCC § 2-610",
+          "url": "https://www.law.cornell.edu/ucc/2/2-610"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-068-v1",
+      "subject": "合同法",
+      "topic": "违约与救济",
+      "title": "Specific performance与unique goods",
+      "stem": "Chipco wrongfully refuses further deliveries. Its chips are genuinely unique, no adequate substitute is available, and damages would be inadequate. Under UCC Article 2, which is most accurate?",
+      "options": [
+        "Specific performance may be available, subject to the court's equitable assessment.",
+        "Specific performance is never available for goods.",
+        "Any reliance automatically requires specific performance.",
+        "The buyer can compel performance merely by asking, without further conditions."
+      ],
+      "answer": 0,
+      "translation": "如果真正没有足够替代品，货物买卖能否请求specific performance？",
+      "rule": "UCC §2-716允许在goods unique或其他适当情形下判specific performance；不是每次违约都强制履行。",
+      "explanations": [
+        "正确。独特性与替代救济不足支持这种请求。",
+        "货物买卖并非一概排除specific performance。",
+        "依赖存在本身不等于当然获得此救济。",
+        "法院仍须判断衡平条件，不能只看买方要求。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q68",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          99,
+          100
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "UCC § 2-716",
+          "url": "https://www.law.cornell.edu/ucc/2/2-716"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-009",
+      "subject": "侵权法",
+      "topic": "过失与产品责任",
+      "title": "Res ipsa loquitur",
+      "stem": "Res Ipsa Loquitur",
+      "options": [
+        "A plea through which the defendant does not admit guilt, but which has the same legal effect as a plea of guilty in a criminal case.",
+        "A legal term from the Latin meaning literally “the thing itself speaks，” but is more often translated “the thing speaks for itself.”",
+        "The prosecutor declines to prosecute, but may still initiate prosecution within the time allowed by law.",
+        "A term used to describe permanent and absolute tenure of land or property with freedom to dispose of it at will."
+      ],
+      "answer": 1,
+      "translation": "Res ipsa loquitur的字面含义是什么？",
+      "rule": "“The thing speaks for itself.” 在过失法中，它可在符合条件时支持negligence推论，不自动免除所有证明责任。",
+      "explanations": [
+        "这是nolo contendere的定义。",
+        "正确。这是该拉丁表达的基本意思。",
+        "这是nolle prosequi所描述的检察决定。",
+        "这是fee simple式财产权描述。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q9",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          12
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · res ipsa loquitur",
+          "url": "https://www.law.cornell.edu/wex/res_ipsa_loquitur"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-004",
+      "subject": "侵权法",
+      "topic": "人格与自由",
+      "title": "Defamation",
+      "stem": "Defamation",
+      "options": [
+        "Misappropriate or fail to turn over funds with which one has been entrusted.",
+        "The modern form of the action for slander or libel.",
+        "A person or party who makes a formal declaration.",
+        "Denoting an action or the bringer of an action that is brought without sufficient grounds for winning, purely to cause annoyance to the defendant."
+      ],
+      "answer": 1,
+      "translation": "Defamation对应哪种侵权概念？",
+      "rule": "Defamation涵盖libel与slander；具体责任仍要看虚假事实陈述、对外传播及适用的过错、损害等要求。",
+      "explanations": [
+        "这是misappropriation/侵占受托资金的描述。",
+        "正确。Libel与slander都属于defamation范畴。",
+        "这是作正式声明的人，不是侵权类型。",
+        "这是vexatious诉讼的描述。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q4",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          85
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · defamation",
+          "url": "https://www.law.cornell.edu/wex/defamation"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-015",
+      "subject": "侵权法",
+      "topic": "过失与产品责任",
+      "title": "Product defect仍需证明",
+      "stem": "If it is a law that all manufacturers of goods are liable to any person who is injured by defects in the product, then",
+      "options": [
+        "Apple will never be liable for any injury caused by iPhone since Apple is only a “designer while all the parts are \"manufactured' by other companies.",
+        "a person still has to show that the product that injured him is defective.",
+        "a manufacturer is always liable when its product is found to be defective.",
+        "a person injured by a defective product can go directly to the manufacturer for compensation without having to sue."
+      ],
+      "answer": 1,
+      "translation": "即使适用产品缺陷责任，受伤者是否仍要证明defect？",
+      "rule": "Strict products liability不要求证明通常意义的制造商过失，但不等于“产品出现伤害即自动赔偿”；defect与causation仍重要。",
+      "explanations": [
+        "不能仅靠把设计和制造外包就推出永无责任。",
+        "正确。题设的责任前提包括产品缺陷。",
+        "只有缺陷、没有相应伤害及因果关系，不当然赔偿。",
+        "能提出赔偿请求不等于可强制对方不经争议解决直接付款。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q15",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          87
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · products liability",
+          "url": "https://www.law.cornell.edu/wex/products_liability"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-023-v1",
+      "subject": "侵权法",
+      "topic": "救助与责任",
+      "title": "自己造成危险时的救助义务",
+      "stem": "George's conduct injures Jack and leaves him helpless and in danger of further harm. George knows this. Which fact most directly supports a duty to take reasonable steps to assist Jack?",
+      "options": [
+        "George happens to be a doctor.",
+        "Jack and George are friends.",
+        "George's own conduct caused Jack's injury.",
+        "Jack and George work for the same employer."
+      ],
+      "answer": 2,
+      "translation": "谁造成了伤害这一点，与一般路人的救助义务有什么区别？",
+      "rule": "一般无普遍救助义务，但行为人知道自己行为造成他人身体伤害、使其无助且有进一步危险时，可能负合理救助义务；不以最初行为必然有过错为前提。",
+      "explanations": [
+        "医生身份本身不在任何场合都产生对所有人的义务。",
+        "朋友关系本身不是本题最强依据。",
+        "正确。George自己的行为造成伤害，是关键联系。",
+        "共同工作本身不说明题中的危险来源。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q23",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          88
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Price v. Canadian Airlines · Restatement §322",
+          "url": "https://www.nhd.uscourts.gov/sites/default/files/Opinions/06/06NH043P.pdf"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-025-v1",
+      "subject": "侵权法",
+      "topic": "救助与责任",
+      "title": "Consent不覆盖后续negligence",
+      "stem": "Assume Jack validly consented to George's initial contact and all resulting right-leg injury, and George incurs no liability for that contact. George then undertakes to move Jack to a car and negligently causes a separate injury to Jack's left leg. For which injury is George liable on these facts?",
+      "options": [
+        "Only the right-leg injury.",
+        "The left-leg injury caused by the negligent assistance.",
+        "Both injuries solely because the original contact was intentional.",
+        "Neither injury, because consent to the original contact waives all later negligence."
+      ],
+      "answer": 1,
+      "translation": "对最初接触的有效同意，能否免除后来搬运造成的新过失损害？",
+      "rule": "Consent的范围和后续救助中的合理注意分别分析；最初接触获同意，不是对后来所有独立negligence的全面免责。",
+      "explanations": [
+        "题干明确排除最初接触超出有效同意范围。",
+        "正确。新损害来自后来独立的negligent搬运。",
+        "本题未给出最初右腿受伤的责任依据。",
+        "同意最初接触不等于同意后来过失伤害。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q25",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          88
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · negligence",
+          "url": "https://www.law.cornell.edu/wex/negligence"
+        },
+        {
+          "title": "LII · consent",
+          "url": "https://www.law.cornell.edu/wex/consent"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-084-v1",
+      "subject": "侵权法",
+      "topic": "人格与自由",
+      "title": "False imprisonment需要intent",
+      "stem": "A custodian locks a lumberyard while honestly believing everyone has left. He neither intends to confine anyone nor knows confinement is substantially certain. A customer accidentally remains inside. On those facts alone, the false-imprisonment claim fails because:",
+      "options": [
+        "False imprisonment always requires a broken bone.",
+        "The customer must have agreed to remain.",
+        "The required intent to confine has not been established.",
+        "Every negligent confinement is automatically intentional imprisonment."
+      ],
+      "answer": 2,
+      "translation": "管理员以为院内无人而锁门，意外困住顾客，是否仅凭被困即构成false imprisonment？",
+      "rule": "False imprisonment是故意侵权。仅证明意外拘束或疏忽，通常不足以证明intent；negligence的责任可能需另行分析。",
+      "explanations": [
+        "受伤不能代替故意拘束的要件。",
+        "不愿被困与被告有拘束intent不是同一件事。",
+        "正确。题干排除了故意或明知必然拘束。",
+        "Negligence和false imprisonment不能直接画等号。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q84",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          106,
+          107
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · false imprisonment",
+          "url": "https://www.law.cornell.edu/wex/false_imprisonment"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-089",
+      "subject": "侵权法",
+      "topic": "人格与自由",
+      "title": "肖像被用于广告",
+      "stem": "James was a geologist studying the land formations in and around a mountain that had undergone a volcanic eruption several years earlier. When he came to town one day, he opened up a copy of the National Newspaper to find that he was in an ad for Mountain Cigarettes. The ad headline “'quoted” James as saying， \"They make you feel like you're in the mountains.” James is certain that it is his picture, but he never posed for the ad for Mountain Cigarettes. After further investigation of the photo, it appeared to James that they had used the image of his head on the body of someone else to give the impression that it was James. James brings an action to recover damages against Mountain Cigarettes. Most likely his best cause of action is",
+      "options": [
+        "defamation.",
+        "invasion of privacy.",
+        "intentional infliction of emotional distress.",
+        "negligent infliction of emotional distress."
+      ],
+      "answer": 1,
+      "translation": "广告商未获同意，拼接James头像用于香烟广告，最适合哪种请求？",
+      "rule": "未经同意将姓名、肖像用于商业广告，典型涉及appropriation；可置于invasion of privacy/right of publicity框架，具体州法分类不同。",
+      "explanations": [
+        "Defamation还需诽谤性含义；题干最直接指向肖像商用。",
+        "正确。在给出的选项中最贴切。",
+        "题干没有以极端行为及严重情绪损害为主要证明。",
+        "单纯未授权商用不等于已证明过失情绪损害的条件。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q89",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          108,
+          109
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · right of publicity",
+          "url": "https://www.law.cornell.edu/wex/right_of_publicity"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-090",
+      "subject": "侵权法",
+      "topic": "土地使用冲突",
+      "title": "Private nuisance与先使用",
+      "stem": "Astrid is an artist of international reputation. Many years ago, she purchased a warehouse overlooking the East River, which she converted into a studio. Although for years most of the surrounding area was used for small manufacturing business， light industry, this warehoused has become a kind of artist retreat, chiefly because of Astrid's presence. About four months ago, Earhaus Recording purchased a warehouse next door to Astricfs studio and converted it into a recording studio and rehearsal rooms. The studio opens at 10 a.m.， but frequently stays open long past midnight, particularly on the weekends. Although the five recording studios are thoroughly soundproofed, the various rehearsal rooms are not. When bands are using them, the sound can easily be heard by Astrid when she is working in her studio. Astrid had always done her work at night, but since the studio next door opened, she has found it very difficult to concentrate on her work. She is distracted by all the noise and activity from Earhaus Recording Studio. Astrid instructed her attorney to bring suit against the studio for private nuisance. In this suit, the fact that Astrid owns her studio and she has used it for 15 years is",
+      "options": [
+        "controlling on the issue of whether Earhaus Recording's use of its property is reasonable.",
+        "not controlling, but relevant to the issue of whether Earhaus Recording's use of its property is reasonable.",
+        "not controlling, and irrelevant since the surrounding area was used exclusively for industry and manufacturing when Astrid bought her property.",
+        "not controlling, and irrelevant since a landowner cannot establish the reasonableness of the use of property simply by being the first in the neighborhood."
+      ],
+      "answer": 1,
+      "translation": "艺术家先使用工作室15年，对邻居噪声是否合理有何意义？",
+      "rule": "Private nuisance关注对土地使用享有的实质、不合理干扰。先使用通常相关，但不是自动决定胜负的万能规则。",
+      "explanations": [
+        "先使用不是唯一决定因素。",
+        "正确。相关但不具有当然控制性。",
+        "周围原为工业区不使15年的使用历史完全无关。",
+        "先使用不自动决定合理性，不等于它完全不相关。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q90",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          109
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · private nuisance",
+          "url": "https://www.law.cornell.edu/wex/private_nuisance"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-037-v1",
+      "subject": "财产法",
+      "topic": "取得与占有",
+      "title": "Wild animal：pursuit与capture",
+      "stem": "For this traditional common-law capture question, assume no special wildlife statute or custom applies. A pursues a wild fox but never captures or controls it. B lawfully captures it in a secure cage. Who has the stronger possessory claim?",
+      "options": [
+        "A, solely because A saw it first.",
+        "B, because actual capture establishes control that mere pursuit does not.",
+        "A, solely because all pursuit creates ownership.",
+        "Neither, because wild animals can never be privately possessed."
+      ],
+      "answer": 1,
+      "translation": "传统wild-animal capture规则下，追赶和实际控制有什么区别？",
+      "rule": "仅pursuit通常不足以取得野生动物的所有权；Pierson式capture规则要求实际占有，或使其失去自然自由并置于控制之下的等同情形。",
+      "explanations": [
+        "仅先看见不等于占有。",
+        "正确。本题明确另一人已将动物捕入受控笼中。",
+        "先追赶本身通常不够。",
+        "私人占有野生动物并非一律不可能，仍受野生动物法规约束。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q37",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          18,
+          19
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Pierson v. Post (1805)",
+          "url": "https://www.nycourts.gov/reporter/archives/pierson_post.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-038-v1",
+      "subject": "财产法",
+      "topic": "取得与占有",
+      "title": "Adverse possession的要件",
+      "stem": "Which most closely describes ordinary adverse-possession requirements, subject to the jurisdiction's law?",
+      "options": [
+        "Actual, open and notorious, exclusive, adverse, continuous possession for the statutory period.",
+        "Knowledge of a parcel's address, without any possession.",
+        "Use solely under the owner's continuing permission, which automatically creates adverse title.",
+        "An automatic transfer whenever the owner leaves land unused for one year."
+      ],
+      "answer": 0,
+      "translation": "仅长期闲置就失去土地，还是需要他人符合adverse possession条件？",
+      "rule": "Adverse possession通常要求actual、open and notorious、exclusive、hostile/adverse、continuous possession，持续法定期间；具体要件及期间依州法。",
+      "explanations": [
+        "正确。Hostile在此指与权利人权利相抵触，不指情绪敌意。",
+        "知道地址不等于实际占有。",
+        "获得许可通常否定adverse这一条件。",
+        "土地闲置不是自动转移产权。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q38",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          19
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · adverse possession",
+          "url": "https://www.law.cornell.edu/wex/adverse_possession"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-039-v1",
+      "subject": "财产法",
+      "topic": "取得与占有",
+      "title": "Mislaid property",
+      "stem": "A customer deliberately places a phone on a barber's counter and forgets to take it when leaving. Under the traditional classification, the phone is:",
+      "options": [
+        "Lost property.",
+        "Abandoned property.",
+        "Mislaid property.",
+        "Treasure trove."
+      ],
+      "answer": 2,
+      "translation": "手机被故意放在柜台后忘记带走，传统分类是什么？",
+      "rule": "Mislaid property是有意放置后遗忘；lost property是非自愿丢失。保管和优先权仍要看true owner及场所管理者等规则。",
+      "explanations": [
+        "题干说有意放置，区别于意外掉落。",
+        "遗忘不等于放弃所有权。",
+        "正确：故意放下，后来忘记。",
+        "普通手机不是传统treasure trove。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q39",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          19
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "McAvoy v. Medina, 93 Mass. 548",
+          "url": "https://app.midpage.ai/document/mcavoy-v-medina-6414561"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-040-v1",
+      "subject": "财产法",
+      "topic": "取得与占有",
+      "title": "Bailment不转移title",
+      "stem": "An owner delivers a watch to a repairer, who knowingly accepts possession and agrees to return it after repair. Which is NOT required to create this bailment?",
+      "options": [
+        "Delivery of the watch.",
+        "Acceptance by the bailee.",
+        "A transfer of possession.",
+        "A transfer of ownership title to the repairer."
+      ],
+      "answer": 3,
+      "translation": "把手表交给修理人保管修理，bailment本身需要转移什么、不需要什么？",
+      "rule": "Bailment通常涉及personal property的交付、bailee接受与暂时占有，并按约返还或处置；不以转移title为要件。",
+      "explanations": [
+        "交付属于典型要素。",
+        "Bailee接受保管属于典型要素。",
+        "转移占有是核心区别。",
+        "正确。Title不是当然转移给修理人。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q40",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          19
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · bailment",
+          "url": "https://www.law.cornell.edu/wex/bailment"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-042-v1",
+      "subject": "财产法",
+      "topic": "Estates与future interests",
+      "title": "Fee simple absolute的传统用语",
+      "stem": "In traditional common-law conveyancing, which is the classic language of a fee simple absolute? Do not assume modern statutes require these words.",
+      "options": [
+        "To A and his heirs.",
+        "To B for life.",
+        "To C for a term of ten years.",
+        "A revocable license to D to cross the land."
+      ],
+      "answer": 0,
+      "translation": "在传统common-law措辞中，哪项是fee simple absolute的经典表达？",
+      "rule": "“To A and his heirs”是经典fee simple表达；heirs在此为words of limitation，不是现在给继承人一个remainder。现代州法往往不要求这些词。",
+      "explanations": [
+        "正确。题目问传统经典用语，不是所有现代州法的唯一写法。",
+        "For life是life estate。",
+        "该选项明确仅创设十年term。",
+        "可撤销的permission不是fee simple title。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q42",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          19
+        ],
+        "note": "校订原题“只能以某措辞创设”的过时绝对表达，重写为传统用语识别题；不把历史形式要求推广到现代各州。"
+      },
+      "authorities": [
+        {
+          "title": "LII · fee simple",
+          "url": "https://www.law.cornell.edu/wex/fee_simple"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-043-v1",
+      "subject": "财产法",
+      "topic": "Estates与future interests",
+      "title": "So long as与determinable fee",
+      "stem": "O conveys Blackacre \"to S and his heirs, so long as Blackacre is used for school purposes.\" Under traditional estate rules, S receives:",
+      "options": [
+        "A fee simple absolute.",
+        "A fee simple determinable, a type of defeasible fee.",
+        "A fee tail.",
+        "A life estate measured solely by S's life."
+      ],
+      "answer": 1,
+      "translation": "授予土地“只要用于学校”，S持有什么estate？",
+      "rule": "传统规则下，durational language如so long as通常创设fee simple determinable；属于defeasible fee，条件不再满足时自动终止，grantor保留possibility of reverter。",
+      "explanations": [
+        "Absolute不带这种持续用途限制。",
+        "正确。这是defeasible fee的一种。",
+        "Fee tail以血统继承限制为特征。",
+        "不是仅在S死亡时才结束的life estate。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q43",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          19
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · fee simple determinable",
+          "url": "https://www.law.cornell.edu/wex/fee_simple_determinable"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-044-v1",
+      "subject": "财产法",
+      "topic": "Estates与future interests",
+      "title": "Grantor留下的reversion",
+      "stem": "O, a fee simple owner, conveys Blackacre \"to A for life\" and makes no further disposition. O retains:",
+      "options": [
+        "A remainder.",
+        "No interest of any kind.",
+        "A reversion.",
+        "A possibility of reverter following a fee simple determinable."
+      ],
+      "answer": 2,
+      "translation": "O只把土地给A终身，未处置后续权益，O保留什么？",
+      "rule": "Reversion是grantor授出较小estate后留下的future interest；remainder通常是同一文书给第三人的后续权益。",
+      "explanations": [
+        "Remainder通常在第三人，不是这里的grantor。",
+        "没有明写保留不等于未处分的权益消失。",
+        "正确。A的life estate结束后回归O或其权利继受人。",
+        "Possibility of reverter典型对应fee simple determinable。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q44",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          20
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · reversion",
+          "url": "https://www.law.cornell.edu/wex/reversion"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-045-v1",
+      "subject": "财产法",
+      "topic": "Estates与future interests",
+      "title": "Contingent remainder",
+      "stem": "O conveys Blackacre \"to A for life, then to B and B's heirs if B survives A.\" Under traditional rules, B has:",
+      "options": [
+        "A contingent remainder.",
+        "A possibility of reverter.",
+        "An indefeasibly vested remainder.",
+        "An executory interest that cuts short A's life estate."
+      ],
+      "answer": 0,
+      "translation": "A终身，随后给B但以B活过A为条件，B的future interest是什么？",
+      "rule": "B是已知受让人，但取得占有须先满足survive A这一condition precedent，故为contingent remainder。",
+      "explanations": [
+        "正确。Survival条件尚未满足。",
+        "Possibility of reverter属于grantor保留权益的另一类型。",
+        "有尚未满足的先决条件，不能叫indefeasibly vested。",
+        "B接在life estate自然终止后，不在此提前切断他人estate。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q45",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          20
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · contingent remainder",
+          "url": "https://www.law.cornell.edu/wex/contingent_remainder"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-030",
+      "subject": "证据法",
+      "topic": "作证与认证",
+      "title": "Leading question",
+      "stem": "In a murder trial, the defense lawyer questioned the defendant： “Didn't you travel to Europe on May 1？” The prosecutor objected. If the court sustained, which would be the most probable reason？",
+      "options": [
+        "This is a cross-examination question.",
+        "This is a leading question.",
+        "This is an inappropriate question.",
+        "This is a question that will invite multiple answers."
+      ],
+      "answer": 1,
+      "translation": "辩护律师直接询问己方被告“你不是5月1日去了欧洲吗？”最可能的异议是什么？",
+      "rule": "Leading question在提问中暗示期待的答案。FRE611(c)通常限制direct examination中的leading，cross则通常允许；具体有例外。",
+      "explanations": [
+        "由辩护律师询问己方被告，本题是direct examination。",
+        "正确。否定式提问暗示答案。",
+        "“不合适”太笼统，不如B指出具体依据。",
+        "该问句通常不是要求同时回答多个独立问题。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q30",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          17
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 611",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_611"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-079-v1",
+      "subject": "证据法",
+      "topic": "相关性与性格",
+      "title": "Habit与character不同",
+      "stem": "In a federal civil trial, Gary denies driving on the road where Rob was struck. Gary offers sufficiently established evidence that he invariably follows a particular, different route home from work each night. The evidence is most appropriately treated as:",
+      "options": [
+        "Automatically inadmissible because it helps Gary.",
+        "Irrelevant solely because it describes repeated conduct.",
+        "Habit evidence that may show conduct on the occasion in question.",
+        "Admissible only to impeach a witness, never substantively."
+      ],
+      "answer": 2,
+      "translation": "每天固定走同一路线的惯常反应，可以用于证明事发日行为吗？",
+      "rule": "FRE406允许habit证据证明某次行为符合习惯；具体、反复的日常反应与宽泛性格评价不同。",
+      "explanations": [
+        "不是只要有利于自己就一律排除。",
+        "惯常路线可影响事发时是否在另一地点。",
+        "正确。规则允许以充分具体的habit推断该次行为。",
+        "不必仅限于impeachment用途。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q79",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          34
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 406",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_406"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-080-v1",
+      "subject": "证据法",
+      "topic": "书证与最佳证据",
+      "title": "Best evidence针对证明内容",
+      "stem": "In a federal trial, Leslie offers oral testimony to prove the exact terms of her written employment agreement. She produces neither the original nor an acceptable duplicate, and no Rule 1004 exception applies. The most direct objection is:",
+      "options": [
+        "Every employment agreement must be a will.",
+        "A contract is unenforceable whenever a party testifies.",
+        "Every written contract violates the Statute of Frauds.",
+        "The original-writing requirement, often called the best evidence rule."
+      ],
+      "answer": 3,
+      "translation": "要证明书面协议内容，却不提交原件或可接受副本且无例外，问题是什么？",
+      "rule": "FRE1002通常要求用original证明writing的内容；FRE1003允许合格duplicate，1004另有遗失等例外。不是所有涉及文书的口头证言都禁止。",
+      "explanations": [
+        "不是每个合同都属于遗嘱。",
+        "内容是否有法律约束力是另一问题。",
+        "书面协议存在时不当然违反Statute of Frauds。",
+        "正确。本题明确没有可用替代或例外。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q80",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          34,
+          35
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 1002",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_1002"
+        },
+        {
+          "title": "Federal Rule of Evidence 1004",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_1004"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-081-v1",
+      "subject": "证据法",
+      "topic": "作证与认证",
+      "title": "Lay handwriting opinion",
+      "stem": "Ron has known his father's handwriting for years, independently of this litigation. In federal court, he offers a lay opinion that a disputed signature is not his father's. Which is best?",
+      "options": [
+        "Only a handwriting expert may give such evidence.",
+        "Ron's interest in the outcome automatically makes him incompetent.",
+        "His prior familiarity may support admissible nonexpert handwriting testimony.",
+        "His family relationship makes his opinion conclusive."
+      ],
+      "answer": 2,
+      "translation": "熟悉父亲平时签名的儿子，非专家能否就签名真实性作证？",
+      "rule": "FRE901(b)(2)允许基于非为本次诉讼而取得的熟悉程度，就笔迹是否真实提出nonexpert opinion；认证不等于最终证明一定真实或伪造。",
+      "explanations": [
+        "认证笔迹并非只有专家一种途径。",
+        "利害关系可影响weight，不必然排除资格。",
+        "正确。题干说明熟悉来源独立于诉讼。",
+        "不是所有亲属意见都当然决定真实性。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q81",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          34,
+          35
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 901",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_901"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-083-v1",
+      "subject": "证据法",
+      "topic": "相关性与性格",
+      "title": "被告可先提出pertinent trait",
+      "stem": "In a federal murder trial, the defendant offers a properly founded witness's reputation testimony that she is peaceful. The prosecution has not yet offered character evidence. Which is correct?",
+      "options": [
+        "It is barred because all character evidence is forbidden.",
+        "The defendant may offer evidence of this pertinent trait, subject to the rules and possible rebuttal.",
+        "It is barred until the prosecution first attacks her character.",
+        "A pertinent trait can be proved only by unrelated specific acts."
+      ],
+      "answer": 1,
+      "translation": "谋杀案被告能否先提出自己peacefulness的reputation evidence？",
+      "rule": "FRE404(a)(2)(A)允许被告提出pertinent character trait；405(a)通常允许reputation/opinion方法，检方可依法反驳。",
+      "explanations": [
+        "并非一切character证据都禁止。",
+        "正确。Peacefulness与暴力犯罪指控相关。",
+        "被告不必等检方先提出坏品格。",
+        "不是只有specific acts才是允许的方法。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q83",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          35,
+          36
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 404",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_404"
+        },
+        {
+          "title": "Federal Rule of Evidence 405",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_405"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-084-v1",
+      "subject": "证据法",
+      "topic": "Hearsay",
+      "title": "Then-existing intent",
+      "stem": "In a federal murder trial where suicide is a disputed explanation, a relevant, unprivileged statement by the deceased, \"I intend to end my life,\" is offered to show his intent when he spoke. Which hearsay exception most directly applies?",
+      "options": [
+        "Dying declaration, simply because the statement mentions death.",
+        "Then-existing state of mind, including intent.",
+        "An automatic privilege for every statement about feelings.",
+        "None, solely because the statement preceded the day of death."
+      ],
+      "answer": 1,
+      "translation": "死者此前说“我打算结束自己的生命”，用于证明当时意图，最相关的hearsay exception是什么？",
+      "rule": "FRE803(3)涵盖then-existing intent、plan或mental condition；不同于对过去事实的回忆。是否另有privilege及充分关联仍分别判断。",
+      "explanations": [
+        "Dying declaration有临终信念等条件，不能只看谈到死亡。",
+        "正确。用来证明说话时的意图。",
+        "不是凡提到精神状态都自动受同一privilege保护。",
+        "803(3)不机械要求必须死亡当天表达。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q84",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          35,
+          36
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 803",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_803"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-017-v1",
+      "subject": "证据法",
+      "topic": "Hearsay",
+      "title": "Out-of-court statement的用途",
+      "stem": "A witness says, \"Rodney told me that he saw John stab the victim.\" This is offered to prove that John stabbed the victim. No hearsay exclusion or exception applies. Under the Federal Rules, the statement is:",
+      "options": [
+        "Nonhearsay merely because the witness repeats it in court.",
+        "Inadmissible hearsay.",
+        "Automatically admissible because Rodney is absent.",
+        "The witness's own eyewitness account of the stabbing."
+      ],
+      "answer": 1,
+      "translation": "证人转述Rodney说“我看见John刺人”，用来证明John确实刺人，是不是hearsay？",
+      "rule": "FRE801(c)：庭外statement若用于证明其所述内容为真，通常属于hearsay；还须另看排除定义或例外，本题明确均无。",
+      "explanations": [
+        "在法庭上转述不使原陈述变成当庭亲历证言。",
+        "正确。陈述者Rodney未在本题中作证。",
+        "说话人不在场不会自动消除hearsay。",
+        "Witness不是亲眼目睹刺人的人。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q17",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          87
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 801",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_801"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-035-v1",
+      "subject": "证据法",
+      "topic": "Hearsay",
+      "title": "Effect on the listener",
+      "stem": "Sally is accused of knowingly selling a counterfeit phone. She offers a receipt describing it as a genuine iPhone solely to explain why she believed it genuine, not to prove it actually was genuine. Assuming relevance and authentication, this use is:",
+      "options": [
+        "Necessarily hearsay offered for its truth.",
+        "A nonhearsay use showing the statement's effect on Sally.",
+        "Automatically a business-record exception without foundation.",
+        "Forbidden solely because the receipt concerns electronics."
+      ],
+      "answer": 1,
+      "translation": "标有“genuine iPhone”的收据，用来说明Sally为何相信真品，而非证明真品，是什么用途？",
+      "rule": "Statement用于证明effect on listener、notice或knowledge等非真实性目的时，不因该用途落入801(c) hearsay定义；仍须满足其他证据规则。",
+      "explanations": [
+        "本题明确不是拿来证明手机实际为真。",
+        "正确。关键在提出证据的目的。",
+        "写在纸上不是自动适用任何商业记录例外。",
+        "与是否为电子设备无关。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q35",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          90,
+          91
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Evidence 801",
+          "url": "https://www.law.cornell.edu/rules/fre/rule_801"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-068",
+      "subject": "刑法",
+      "topic": "Mens rea与共犯",
+      "title": "Unbeknownst to Ken",
+      "stem": "Ken, John, and Sally were good friends. Ken knew that John and Sally cared deeply for each other and encouraged John to ask Sally to marry him. Unbeknownst to Ken, John was already married to a woman who lived in another state. Finally, after continued encouragement by Ken, John went through a marriage ceremony with Sally, and Ken was John's best man at the ceremony. If Ken is being charged with being an accessory to bigamy, he should be found",
+      "options": [
+        "guilty, because he encouraged John, and his mistake as to the existence of a prior marriage is no defense to a charge of bigamy.",
+        "guilty, because he was present when the crime occurred and is thus a principal in the second degree.",
+        "not guilty, because he did not have the mental state required for aiding and abetting.",
+        "not guilty, because his encouragement and assistance was not the legal cause of the crime."
+      ],
+      "answer": 2,
+      "translation": "Ken不知道John已婚，鼓励求婚并做伴郎，是否已有aiding and abetting的mens rea？",
+      "rule": "Accomplice liability通常要求有意帮助该犯罪并具相应知情、犯罪目的；仅实际帮上忙不够。Unbeknownst to Ken＝Ken并不知情。",
+      "explanations": [
+        "把Ken误解为知道先前婚姻；本题正好相反。",
+        "仅在现场不自动成为共犯。",
+        "正确。缺少帮助犯罪所需的mental state。",
+        "帮助可能实际产生影响，但不等于因此有犯罪意图；关键是C。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q68",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          30
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Rosemond v. United States",
+          "url": "https://www.law.cornell.edu/supremecourt/text/12-895"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-072-v1",
+      "subject": "刑法",
+      "topic": "Mens rea与共犯",
+      "title": "意外接触与criminal battery",
+      "stem": "Randall instinctively waves at a wasp and accidentally touches Bill. Assume this jurisdiction's criminal battery offense requires intent or recklessness, and the facts establish neither. Randall is:",
+      "options": [
+        "Not guilty solely because no serious injury occurred.",
+        "Not guilty because the required mental state is absent.",
+        "Guilty merely because ordinary care might have prevented contact.",
+        "Guilty whenever any offensive contact occurs."
+      ],
+      "answer": 1,
+      "translation": "意外挥手碰人，在要求intent或recklessness的battery罪中是否仅凭接触就有罪？",
+      "rule": "先看所控犯罪的mental state。发生offensive touching并不自动证明故意或recklessness；普通carelessness与刑事门槛不同。",
+      "explanations": [
+        "严重伤害并非所有battery罪的必要条件。",
+        "正确。题干明确排除了所要求的mental state。",
+        "本题法律不以mere negligence为充分条件。",
+        "后果不自动替代mens rea。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q72",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          31,
+          32
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · battery",
+          "url": "https://www.law.cornell.edu/wex/battery"
+        },
+        {
+          "title": "LII · mens rea",
+          "url": "https://www.law.cornell.edu/wex/mens_rea"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-075-v1",
+      "subject": "刑法",
+      "topic": "财产犯罪",
+      "title": "Conspiracy需要犯罪目的",
+      "stem": "Bob and Greg agree only to retrieve tools they both honestly believe belong to Bob and that Bob has an immediate right to possess. They do not intend theft or any other crime. Under traditional conspiracy-to-steal principles, their best defense is:",
+      "options": [
+        "They never agreed to do anything.",
+        "Every ownership dispute makes any conduct lawful.",
+        "They might later return whatever they take.",
+        "They lacked the intent to achieve the criminal objective of stealing."
+      ],
+      "answer": 3,
+      "translation": "两人约定取回自己真诚认为有权立即取回的工具，是否当然构成conspiracy to steal？",
+      "rule": "Conspiracy to steal需要约定实施犯罪并具相应intent。真诚claim of right可否定特定盗窃目的；不等于允许以任何暴力手段取物。",
+      "explanations": [
+        "他们确有取工具的约定；关键不在没有任何约定。",
+        "当事人有争议本身不当然阻止犯罪成立。",
+        "事后打算返还不如缺乏犯罪意图直接。",
+        "正确。本题真诚权利认识使盗窃目的欠缺。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q75",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          33
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · conspiracy",
+          "url": "https://www.law.cornell.edu/wex/conspiracy"
+        },
+        {
+          "title": "Morissette v. United States",
+          "url": "https://www.law.cornell.edu/supremecourt/text/342/246"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-076-v1",
+      "subject": "刑法",
+      "topic": "财产犯罪",
+      "title": "Mistake of fact与larceny intent",
+      "stem": "Greg retrieves a toolbox for Bob but mistakenly takes another mechanic's identical toolbox. Greg honestly believes it is Bob's property and that Bob is entitled to it. His strongest defense to common-law larceny is:",
+      "options": [
+        "The true owner actually consented, although there is no evidence of consent.",
+        "His honest mistake negates the required intent to steal.",
+        "Giving stolen property to someone else always prevents larceny.",
+        "Being stopped before Bob sees the toolbox automatically prevents larceny."
+      ],
+      "answer": 1,
+      "translation": "Greg真诚误把他人工具当成Bob的工具，为什么可能否定larceny？",
+      "rule": "传统larceny要求相应的intent to steal/permanently deprive。真诚相信财物属于自己所帮助的权利人，可否定该特定意图；其他犯罪另看要件。",
+      "explanations": [
+        "题干没有实际权利人的同意。",
+        "正确。诚实事实错误直接针对盗窃intent。",
+        "拿来送给别人照样可能有盗窃意图，不能只看自己是否保留。",
+        "是否被及时抓获不自动否定既遂盗窃。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q76",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          33
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Morissette v. United States",
+          "url": "https://www.law.cornell.edu/supremecourt/text/342/246"
+        },
+        {
+          "title": "LII · larceny",
+          "url": "https://www.law.cornell.edu/wex/larceny"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-009",
+      "subject": "刑法",
+      "topic": "Mens rea与共犯",
+      "title": "Mens rea",
+      "stem": "Mens Rea",
+      "options": [
+        "A plea through which the defendant does not admit guilt, but which has the same legal effect as a plea of guilty in a criminal case.",
+        "A legal term from the Latin meaning literally， “the thing itself speaks”， but is more often translated \"the thing speaks for itself.”",
+        "The prosecutor declines to prosecute, but may still initiate prosecution within the time allowed by law.",
+        "The guilty mind necessary to establish criminal responsibility. In criminal law,it is viewed as one of the necessary elements of some crimes."
+      ],
+      "answer": 3,
+      "translation": "Mens rea指什么？",
+      "rule": "Mens rea指犯罪要求的mental state，可能是purpose、knowledge、recklessness等；不是每个犯罪都要求同一种“恶意”，strict liability另有规则。",
+      "explanations": [
+        "这是nolo contendere。",
+        "这是res ipsa loquitur。",
+        "这是检察官不继续起诉的描述。",
+        "正确。对应犯罪所要求的mental element。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q9",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          86
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · mens rea",
+          "url": "https://www.law.cornell.edu/wex/mens_rea"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-072",
+      "subject": "刑法",
+      "topic": "Mens rea与共犯",
+      "title": "Hot-wire assistance不等于知情共犯",
+      "stem": "As Bob walked out of a store, he saw his friend Rick under the hood of a car trying to get it started. When Bob asked what was wrong, Rick told him that he had lost the keys to his car and was trying to “hot wire\" it. Bob told Rick to get behind the steering wheel, and when Rick was ready, Bob started the car by “hot wiring” it. In fact, Rick did not own the car, and Bob is charged with being an accessory to larceny. Bob should be found",
+      "options": [
+        "guilty, because his actions enabled Rick to steal the car.",
+        "guilty, because he had no reason to believe that the car was really Rick's.",
+        "not guilty, because he did not intend to aid Rick in stealing a car.",
+        "not guilty, because Rick would have probably stolen the car without his help."
+      ],
+      "answer": 2,
+      "translation": "Bob相信Rick在启动自己的车，帮忙hot-wire，能否仅因事实上帮助偷车就定共犯？",
+      "rule": "实际帮助与intentional participation要分开；对关键事实诚实不知情，可能缺少accomplice liability的mens rea。",
+      "explanations": [
+        "实际促成行为不自动证明犯罪意图。",
+        "不能仅凭帮助就推定他明知车属他人。",
+        "正确。按所给事实，他无意帮助盗车。",
+        "主犯即使不用帮助也能犯罪，不当然免除知情帮助者责任。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q72",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          102
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Rosemond v. United States",
+          "url": "https://www.law.cornell.edu/supremecourt/text/12-895"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-074",
+      "subject": "刑法",
+      "topic": "杀人罪与法定要件",
+      "title": "Premeditation and deliberation",
+      "stem": "Joseph angered because a rival gang member had twice beaten him up after school， obtained a heavy length of lead pipe and waited in a deserted alleyway which he knew the rival took as a route home every day after school. When his enemy came walking down the alley, Joseph lead out behind him and smashed the pipe into the victim's head, knocking him to the ground. Joseph then rolled the victim over and pounded his face with 15 to 20 heavy blows with the lead pipe, killing him. The jurisdiction defines first degree murders as murder committed with premeditation and deliberation. All other murders are defined as second degree murders. If Joseph is convicted of first degree murder （as opposed to second degree murder）， it will be because",
+      "options": [
+        "the nature of the acts causing death distinguishes Joseph's action as first degree murder",
+        "the degree of causative relationship between Joseph's acts and the death of the victim renders it murder of the first degree.",
+        "the relationship between Joseph and the victim requires that a finding of first degree murder be made.",
+        "Joseph's mental state up to and including the moment of the attack determines that the act is first degree murder."
+      ],
+      "answer": 3,
+      "translation": "题干把first-degree murder定义为有预谋、深思的杀人，区分关键是什么？",
+      "rule": "依题设法条区分degree，重点是premeditation and deliberation的mental state；伏击、携带凶器等事实可支持推断，但不是“打得越多自动越高级”。",
+      "explanations": [
+        "行为方式是证明mental state的材料，不是脱离法定要件的唯一标准。",
+        "因果关系存在不自动区分两个murder degree。",
+        "双方关系本身不会强制决定degree。",
+        "正确。按题设，预谋与深思是区分要件。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q74",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          102,
+          103
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "18 U.S.C. § 1111",
+          "url": "https://www.law.cornell.edu/uscode/text/18/1111"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-069-v1",
+      "subject": "刑法",
+      "topic": "杀人罪与法定要件",
+      "title": "Motive与法定mens rea",
+      "stem": "Assume a valid statute expressly prohibits knowingly carrying a concealed pointed stabbing implement, including an ice pick, and provides no defense for carrying it for general protection. Alan knowingly conceals an ice pick but says he intended only self-protection. Which is best?",
+      "options": [
+        "That motive alone does not negate the stated statutory elements.",
+        "Self-protection automatically disproves knowledge of carrying.",
+        "An ice pick cannot fall within the statute despite its express wording.",
+        "Every possession offense requires an intent actually to injure someone."
+      ],
+      "answer": 0,
+      "translation": "法条明确禁止明知携带隐蔽尖刺器具；“只是为了保护自己”当然免责吗？",
+      "rule": "Motive与mens rea不同。法律如要求明知携带某类隐蔽器具，而未设本题这种动机免责，保护自己的动机不自动消灭这些要件。",
+      "explanations": [
+        "正确。动机不是此法条规定的自动抗辩。",
+        "自保动机不等于没有明知携带。",
+        "本题已明确器具在法条范围内，不能无视法定定义。",
+        "不是每种犯罪都要求意图实际伤人。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q69",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          100,
+          101
+        ],
+        "note": "原题涉及knife/dagger法条解释，信息不足以得出普遍结论。此处明确假定有效法条和定义，仅测试motive与mens rea；不评价任何现行州武器法的合宪性。"
+      },
+      "authorities": [
+        {
+          "title": "LII · mens rea",
+          "url": "https://www.law.cornell.edu/wex/mens_rea"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-003",
+      "subject": "刑事诉讼法",
+      "topic": "起诉与审判权利",
+      "title": "Information与indictment",
+      "stem": "Information",
+      "options": [
+        "A court order restraining a person from doing or continuing to do something that threatens or causes irreparable injury to another.",
+        "A formal accusation （criminal information） of a crime, differing from an indictment in that it is prepared and signed by the prosecuting attorney instead of the grand jury.",
+        "A thing that persuades or influences someone to do something, especially enter into a contract.",
+        "Formally, by a grand jury, accuse or charge someone with a crime."
+      ],
+      "answer": 1,
+      "translation": "Criminal information是什么？",
+      "rule": "Information通常是由prosecutor提出的正式刑事指控文件；indictment来自grand jury。程序适用范围仍依联邦或州法律。",
+      "explanations": [
+        "这是injunction的定义。",
+        "正确。这里不是一般“信息”的日常意思。",
+        "这是inducement的描述。",
+        "D描述grand jury正式指控的动作，不是information。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q3",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          10,
+          11
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Federal Rule of Criminal Procedure 7",
+          "url": "https://www.law.cornell.edu/rules/frcrmp/rule_7"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-007",
+      "subject": "刑事诉讼法",
+      "topic": "逮捕与供述",
+      "title": "Probable cause",
+      "stem": "Probable Cause",
+      "options": [
+        "The right to judicial relief.",
+        "Level of suspicion required to justify law enforcement investigation, but not arrest or search.",
+        "Basic principles of law generally accepted by the courts or embodied in the statutes of a particular jurisdiction.",
+        "In criminal cases, reasonable grounds for believing that the facts justify issuance of an arrest or search warrant, or further legal action."
+      ],
+      "answer": 3,
+      "translation": "刑事程序中的probable cause是什么程度的根据？",
+      "rule": "Probable cause要求具体事实支持相应合理判断，强于mere suspicion；逮捕与搜查的判断对象不同，且不是所有合法搜捕都必须先取得warrant。",
+      "explanations": [
+        "这是请求司法救济的权利，不是证据判断门槛。",
+        "B更接近较低的reasonable suspicion，且表述并不精确。",
+        "这是一般法律原则。",
+        "正确。在四项中最符合该术语。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q7",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          11
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Fourth Amendment",
+          "url": "https://www.law.cornell.edu/constitution/fourth_amendment"
+        },
+        {
+          "title": "LII · probable cause",
+          "url": "https://www.law.cornell.edu/wex/probable_cause"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-032-v1",
+      "subject": "刑事诉讼法",
+      "topic": "起诉与审判权利",
+      "title": "Serious offense的jury trial",
+      "stem": "Sally is tried in state court for murder, a serious criminal offense. She timely invokes her constitutional right to a jury trial. Which is the best basis?",
+      "options": [
+        "The Sixth Amendment jury-trial guarantee applies to this serious state criminal prosecution.",
+        "She has a right only if jurors are likely to sympathize with her.",
+        "The prosecutor may veto that constitutional right for any reason.",
+        "Every petty offense must also have a jury for exactly the same reason."
+      ],
+      "answer": 0,
+      "translation": "州法院murder案的刑事被告主张jury trial，是否只靠检察官同意？",
+      "rule": "Sixth Amendment经Fourteenth Amendment适用于州的serious criminal offenses；murder是典型严重犯罪。Petty offenses不能一概照搬。",
+      "explanations": [
+        "正确。这里讨论serious criminal charge。",
+        "宪法权利不取决于预测陪审员是否同情。",
+        "不是检方单方可否决被告本有的权利。",
+        "不是所有轻微刑事违法都同样要求jury。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q32",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          17
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Duncan v. Louisiana",
+          "url": "https://www.law.cornell.edu/supremecourt/text/391/145"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-035-v1",
+      "subject": "刑事诉讼法",
+      "topic": "起诉与审判权利",
+      "title": "Right to counsel与federal claim",
+      "stem": "An indigent defendant charged with a state felony asks for appointed counsel. The court refuses, conducts the trial without counsel, and obtains a conviction. There is no valid waiver. Which is the most direct federal constitutional problem?",
+      "options": [
+        "Denial of the right to assistance of counsel.",
+        "The defendant failed to hire the most expensive lawyer.",
+        "A purely clerical state-law issue with no federal dimension.",
+        "An automatic entitlement to Supreme Court certiorari in every case."
+      ],
+      "answer": 0,
+      "translation": "贫困重罪被告被拒绝指定律师、未有效放弃，最直接涉及什么宪法保障？",
+      "rule": "Gideon：州重罪审判中，贫困被告有获得指定律师的宪法权利；有效waiver另论。Habeas与certiorari是不同程序，不能混称。",
+      "explanations": [
+        "正确。题干直接触及right to counsel。",
+        "收费多少不决定贫困被告的此项基本保障。",
+        "不是仅有州法文字笔误。",
+        "宪法问题不自动保证最高法院grant certiorari。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q35",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          18
+        ],
+        "note": "原题混合habeas corpus与certiorari，并列条件不足的多项答案。重写为明确的Gideon规则题，不沿用原题All of the above。"
+      },
+      "authorities": [
+        {
+          "title": "Gideon v. Wainwright",
+          "url": "https://www.law.cornell.edu/supremecourt/text/372/335"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-069-v1",
+      "subject": "刑事诉讼法",
+      "topic": "逮捕与供述",
+      "title": "Miranda不能自动清除illegal arrest taint",
+      "stem": "Police arrest Della without probable cause and immediately obtain a statement after Miranda warnings. There is no intervening event or other circumstance sufficient to attenuate the connection. Which is her strongest suppression argument?",
+      "options": [
+        "Miranda warnings make every arrest lawful.",
+        "A voluntary statement can never be a fruit of an unlawful arrest.",
+        "The statement remains a fruit of the unlawful arrest; warnings alone do not purge that taint.",
+        "Every statement made at any later time is permanently inadmissible, regardless of attenuation."
+      ],
+      "answer": 2,
+      "translation": "无probable cause非法逮捕后立刻供述，给过Miranda是否就消除一切问题？",
+      "rule": "Brown v. Illinois：Miranda compliance与Fourth Amendment attenuation分开；警告本身不自动打断非法逮捕和供述的因果链。",
+      "explanations": [
+        "Warnings与逮捕是否合法是不同层面。",
+        "自愿性必要，但不是唯一的Fourth Amendment判断。",
+        "正确。本题明确没有足以attenuate的介入因素。",
+        "并非任何先前违法都永远无法attenuate；本题需具体分析。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q69",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          30,
+          31
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "Brown v. Illinois",
+          "url": "https://www.law.cornell.edu/supremecourt/text/422/590"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-070",
+      "subject": "刑事诉讼法",
+      "topic": "逮捕与供述",
+      "title": "Post-Miranda silence",
+      "stem": "Gordon was weaving all over the road and driving very erratically when stopped by state troopers and arrested for drunk driving. He was advised of his constitutional rights and elected to remain silent. At trial for his drunk driving charge, Gordon testified in his own defense, stating that he had just left his doctor’s office and had been administered medication without being told that it would seriously and immediately hamper his coordination. On cross-examination, the prosecutor asks， “Didn't you just make up this medication story after the fact to evade legitimate liability for driving while intoxicated？” When Gordon replied that he had not， the prosecutor asked， “Then why didn't you tell the arresting officer about the medication？” Defense counsel objects. The trial court should rule that the question is",
+      "options": [
+        "improper, because to require the defense to inform the prosecution of defendant's testimony prior to trial would be unconstitutional pretrial discovery.",
+        "improper, because use of defendant’s post-arrest silence violates his right to due process of law.",
+        "proper, since defendant’'s silence was not used as direct evidence but only for impeachment on cross-examination.",
+        "proper, because defendant’s post-arrest silence is a prior inconsistent statement which is admissible to show recent fabrication."
+      ],
+      "answer": 1,
+      "translation": "警告后选择沉默，检察官可否用该沉默攻击后来庭上解释？",
+      "rule": "Doyle禁止在此情境用arrest后、Miranda warnings后的沉默impeach被告；不要扩大为所有时点、所有用途的沉默一律排除。",
+      "explanations": [
+        "不是本题所测的pretrial discovery问题。",
+        "正确。结合题干“被告知权利后选择沉默”的条件。",
+        "仅叫impeachment仍受Doyle限制。",
+        "受到警告后保持沉默，不自动构成可用的矛盾陈述。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q70",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          31
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Doyle v. Ohio",
+          "url": "https://www.law.cornell.edu/supremecourt/text/426/610"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-047-v1",
+      "subject": "知识产权",
+      "topic": "Patent",
+      "title": "Patent是排除权",
+      "stem": "Which statement best describes the basic right granted by a U.S. patent?",
+      "options": [
+        "An unconditional license to practice the invention regardless of all other rights and regulations.",
+        "A right to exclude others from specified acts involving the patented invention, subject to patent law.",
+        "Automatic patent protection in every country.",
+        "Exclusive ownership of every word used to advertise the product."
+      ],
+      "answer": 1,
+      "translation": "获得专利是否就保证自己能不受其他法律限制地生产？",
+      "rule": "35 U.S.C. §154的核心是right to exclude；patent不自动给予affirmative freedom to practice，仍可能涉及他人专利或监管许可。",
+      "explanations": [
+        "专利不是对所有监管和在先权利的豁免。",
+        "正确。排除权与自己经营许可区分。",
+        "美国专利不是全球统一专利。",
+        "专利保护与商标标识功能不同。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q47",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          20
+        ],
+        "note": "校订原题将专利概括为自己make/use权利的误导；保留patent基本权利考点，改为right to exclude。"
+      },
+      "authorities": [
+        {
+          "title": "35 U.S.C. § 154",
+          "url": "https://www.law.cornell.edu/uscode/text/35/154"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-05-048-v1",
+      "subject": "知识产权",
+      "topic": "Patent",
+      "title": "Patent territoriality",
+      "stem": "Assume American Fishing has only a U.S. patent, and no other patent or legal restriction applies. A competitor manufactures and sells the complete machine entirely in a foreign country, without U.S. imports, offers, component supply, or other U.S.-connected conduct. Which activity ordinarily falls outside direct infringement under §271(a)?",
+      "options": [
+        "Every use anywhere, because a U.S. patent is global.",
+        "Unauthorized manufacture within the United States.",
+        "Supplying specially configured U.S. components for foreign assembly, automatically free of all patent rules.",
+        "The wholly foreign manufacture and sale described in the facts."
+      ],
+      "answer": 3,
+      "translation": "只有美国专利，完全在未获专利保护的外国制造销售，是否通常违反§271(a)？",
+      "rule": "美国专利具有territorial scope。§271(a)关注美国境内实施或进口等；美国供应组件、诱导境内侵权等其他条款须另看，不能泛化“放国外就永远没问题”。",
+      "explanations": [
+        "不是美国授权就全球同等保护。",
+        "美国境内未经许可制造仍可能侵权。",
+        "美国供应组件供境外组装可能涉及§271(f)。",
+        "正确。题干排除了美国行为和其他责任依据，仅问§271(a)。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-05 · 卷一 Q48",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          20,
+          21
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "35 U.S.C. § 271",
+          "url": "https://www.law.cornell.edu/uscode/text/35/271"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-049",
+      "subject": "知识产权",
+      "topic": "Patent",
+      "title": "Intrinsic与extrinsic evidence",
+      "stem": "In claim interpretation, which of the following carries the strongest weight of evidentiary value？",
+      "options": [
+        "The inventor's own testimony explaining what the words mean in the claim Language.",
+        "The prosecution history of correspondence between the examining attorney and the patent agent in defining the claim terms.",
+        "A common dictionary giving the general meaning of a particular word as used in the patent claim.",
+        "An expert testimony explaining the plain meaning of a word as customarily used in the industry."
+      ],
+      "answer": 1,
+      "translation": "列出的材料中，哪种在patent claim construction里属于较强的intrinsic evidence？",
+      "rule": "Claims和specification居核心位置，prosecution history也属intrinsic evidence；字典和专家等extrinsic evidence通常不能推翻清楚的intrinsic record。本题只比较所列四项。",
+      "explanations": [
+        "发明人事后解释不是当然控制文本含义。",
+        "正确。审查过程中有关claim范围的记录属intrinsic evidence。",
+        "一般字典可辅助，但不能自动压倒intrinsic record。",
+        "专家意见可辅助，不当然胜过清楚的intrinsic evidence。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q49",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          21
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Phillips v. AWH Corp., 415 F.3d 1303",
+          "url": "https://www.law.berkeley.edu/files/Phillips_v_AWH.pdf"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-006",
+      "subject": "知识产权",
+      "topic": "Copyright与trademark",
+      "title": "Fair use不是无限引用许可",
+      "stem": "Fair Use",
+      "options": [
+        "The stated value expressed in the language of the instrument.",
+        "A human being, as opposed to artificial or fictitious “person”： such as corporations.",
+        "A person appointed by the court to appear on behalf of a minor or incompetent person who is a plaintiff in a civil action.",
+        "The doctrine that, under certain condition, copyright material may be quoted verbatim without need for permission from or payment to the copyright holder."
+      ],
+      "answer": 3,
+      "translation": "Fair use最贴近哪项定义？",
+      "rule": "17 U.S.C. §107的fair use需综合purpose/character、work nature、amount/substantiality及market effect。教育、引用或署名本身都不自动决定结果。",
+      "explanations": [
+        "这是face value的描述。",
+        "这是natural person。",
+        "这是next friend类诉讼代表。",
+        "正确。注意under certain conditions，而不是任意引用都免许可。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q6",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          85
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "17 U.S.C. § 107",
+          "url": "https://www.law.cornell.edu/uscode/text/17/107"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-052",
+      "subject": "知识产权",
+      "topic": "Copyright与trademark",
+      "title": "Originality与minimum creativity",
+      "stem": "In order to satisfy the originality requirement of the copyrightable work, an author must demonstrate",
+      "options": [
+        "sweat of the brow.",
+        "minimum creativity.",
+        "reasonable creativeness.",
+        "fanciful ideas embodied in the work."
+      ],
+      "answer": 1,
+      "translation": "版权originality至少要求什么程度的creativity？",
+      "rule": "Feist：originality要求independent creation加最低程度creativity；不是新颖性专利标准，sweat of the brow本身也不够。",
+      "explanations": [
+        "辛苦投入本身不替代原创表达。",
+        "正确。仍须独立创作，不是最低创意就可抄别人。",
+        "不是本题所测的法定门槛表述。",
+        "不要求奇幻或异想天开的想法。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q52",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          94
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "Feist Publications v. Rural Telephone",
+          "url": "https://www.law.cornell.edu/supremecourt/text/499/340"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-054-v1",
+      "subject": "知识产权",
+      "topic": "Copyright与trademark",
+      "title": "Intent-to-use application",
+      "stem": "A U.S. applicant has a bona fide intention to use a mark in commerce but has not yet used it. Under the ordinary §1(b) route, which is correct?",
+      "options": [
+        "No application is possible before use.",
+        "The mark automatically enters the Supplemental Register.",
+        "An intent-to-use application may be filed, with the required later showing of use for registration.",
+        "Intent alone automatically produces a final registration without a showing of use."
+      ],
+      "answer": 2,
+      "translation": "尚未使用但有真实使用意图的商标，可以申请还是已经能仅凭意图完成注册？",
+      "rule": "Lanham Act §1(b)允许bona fide intent-to-use application；通常需之后依法提交使用证明方能依此基础完成注册。Application与registration区分。",
+      "explanations": [
+        "尚未使用不排除依法提出ITU申请。",
+        "未使用不自动取得Supplemental Register资格。",
+        "正确。Intent支持申请，不等于自动完成注册。",
+        "§1(b)基础下，只有使用意图通常不足以取得最终注册。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q54",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          94,
+          95
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "15 U.S.C. § 1051",
+          "url": "https://www.law.cornell.edu/uscode/text/15/1051"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-013",
+      "subject": "术语与文化",
+      "topic": "术语与法律传统",
+      "title": "Stare decisis",
+      "stem": "The doctrine of ___ requires that cases with the same fact-situation be treated the same way. But in actual fact, there are simply no two cases exactly alike.",
+      "options": [
+        "Mail-box Rule",
+        "Rule against Perpetuites",
+        "Stare Decisis",
+        "Mirror Image Rule"
+      ],
+      "answer": 2,
+      "translation": "相似案件参照precedent处理的doctrine叫什么？",
+      "rule": "Stare decisis指遵循先例；适用时要比较material facts、区分holding，并非所有事实略有不同就不能用先例。",
+      "explanations": [
+        "Mailbox rule主要涉及承诺何时生效。",
+        "Rule against perpetuities涉及某些future interests的期限。",
+        "正确。注意原材料选项排版次序，这里已按A/B/C/D归位。",
+        "Mirror image rule是普通法acceptance与offer一致的规则。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q13",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          13
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · stare decisis",
+          "url": "https://www.law.cornell.edu/wex/stare_decisis"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-008",
+      "subject": "术语与文化",
+      "topic": "术语与法律传统",
+      "title": "Ipso facto",
+      "stem": "Ipso Facto",
+      "options": [
+        "By the fact itself; in and of itself.",
+        "Latin words that means to start over from beginning.",
+        "To respond to a civil complaint by filing a demurrer.",
+        "The rule preventing illegally obtained evidence, such as property found during an illegal search, from being used in any trial."
+      ],
+      "answer": 0,
+      "translation": "Ipso facto在法律英语中是什么意思？",
+      "rule": "Ipso facto＝by the fact itself，因该事实本身；不等于重新审理或任何裁判都自动有效。",
+      "explanations": [
+        "正确。基本固定表达。",
+        "这是de novo的意思。",
+        "这是以demurrer回应诉状的动作。",
+        "这是exclusionary rule的概括。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q8",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          85,
+          86
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · ipso facto",
+          "url": "https://www.law.cornell.edu/wex/ipso_facto"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-013-v1",
+      "subject": "术语与文化",
+      "topic": "术语与法律传统",
+      "title": "Historical law and equity",
+      "stem": "Historically, common-law courts and equity courts formed separate branches. Which word best describes that divided historical system of law and equity?",
+      "options": [
+        "Bilateral.",
+        "Bidirectional.",
+        "Bifurcated.",
+        "Bicentennial."
+      ],
+      "answer": 2,
+      "translation": "历史上law与equity分成两条体系，用哪个形容词？",
+      "rule": "Bifurcated意为分叉、分为两支；美国承继law/equity的历史区别，但现代很多法院程序已合并，某些实体救济和jury差别仍在。",
+      "explanations": [
+        "Bilateral通常指双边的。",
+        "Bidirectional指双向的，不是这里的固定描述。",
+        "正确。这里强调历史上的两分体系。",
+        "Bicentennial指二百周年。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q13",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          86
+        ],
+        "note": "依据原题规则／情境重写，补足本题所需条件；不是原题逐字复现，答案按此处题干独立判断。"
+      },
+      "authorities": [
+        {
+          "title": "LII · equity",
+          "url": "https://www.law.cornell.edu/wex/equity"
+        },
+        {
+          "title": "Federal Rule of Civil Procedure 2",
+          "url": "https://www.law.cornell.edu/rules/frcp/rule_2"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-014",
+      "subject": "术语与文化",
+      "topic": "术语与法律传统",
+      "title": "Come into existence",
+      "stem": "The common law system came into ___, historically, in England largely as the result of the activity of the royal courts of justice after the Norman Conquest.",
+      "options": [
+        "life",
+        "name",
+        "existence",
+        "been"
+      ],
+      "answer": 2,
+      "translation": "The common law system came into ___：哪个词构成“产生、形成”的固定搭配？",
+      "rule": "Come into existence＝产生、开始存在；come into force＝生效，是另一固定表达。",
+      "explanations": [
+        "Come to life通常用to，不是此处搭配。",
+        "Come into name不是该表达。",
+        "正确：came into existence。",
+        "Been不能在此处组成该结构。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q14",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          86
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [
+        {
+          "title": "LII · common law",
+          "url": "https://www.law.cornell.edu/wex/common_law"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-096",
+      "subject": "逻辑推理",
+      "topic": "条件与平行推理",
+      "title": "Affirming the consequent",
+      "stem": "Everyone who is compassionate is kind, and someone who has experienced life's challenges is invariably compassionate. Jeremy is kind, so he has experienced life's challenges. Which one of the following exhibits a pattern of flawed reasoning most similar to that exhibited above？",
+      "options": [
+        "Roberta is a highly productive person. Every person who is motivated is highly productive, and every person who is organized is motivated. Therefore, Roberta is very organized.",
+        "Nice people are always sympathetic people, and those who have experienced hardships always end up being nice. Betsy is not a sympathetic person, so Betsy has not experienced hardships.",
+        "Almost everyone who loves black and white films is a movie buff, and all movie buffs enjoy popcorn, Sasha does not love black and white films, so Sasha probably does not enjoy popcorn.",
+        "Patience requires an even temperament, and being a good parent certainly requires patience. James has no patience, so James is not a good parent."
+      ],
+      "answer": 0,
+      "translation": "经历挑战→compassionate→kind，已知kind倒推经历挑战，哪个选项同样犯错？",
+      "rule": "A→B→C，已知C不能倒推A。必要条件成立不保证充分条件成立；反过来缺少必要条件可用contraposition。",
+      "explanations": [
+        "正确。Organized→motivated→productive，已知productive倒推organized。",
+        "这是有效的逆否链，不是相同错误。",
+        "这是从否定前件去否定后件的另一错误结构。",
+        "Good parent→patience，缺少patience推出非good parent，是有效逆否。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q96",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          42,
+          43
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-05-098",
+      "subject": "逻辑推理",
+      "topic": "支持与削弱",
+      "title": "Reimbursement与实际参与",
+      "stem": "Recent dental research shows that bacteria around the gum line produces a substance that in sufficient amounts can induce preterm labor in pregnant women and can cause heart disease by clogging arteries. Both medical outcomes add to payouts by health insurers to medical-service providers. The bacteria are best removed by a dentist or trained hygienist during a routine cleaning. One health insurer has calculated that it can reduce its payouts by reimbursing subscribers who are either pregnant or at high risk of developing heart disease for the cost of one professional dental cleaning per year. Which of the following, if true, most strongly supports the assertion that the insurer’s payouts to medical-service providers will decrease if it implements the reimbursement plan described above？",
+      "options": [
+        "Individuals are generally less likely to postpone or forego inexpensive or free dental procedures than expensive ones.",
+        "Pregnant women typically crave sugary foods, which are proven to contribute to tooth decay.",
+        "The risk of developing heart disease is greater for individuals with a family history of heart disease than for those with no such history.",
+        "The dental health of pregnant women and heart-disease patients, as a group, is similar to that of the general population，"
+      ],
+      "answer": 0,
+      "translation": "保险报销清洁费用以减少将来赔付，哪项最支持计划？",
+      "rule": "补上“降低费用→更多目标人群接受清洁”这一环，会增强论证；most strongly supports不要求单个选项证明所有成本收益。医疗关系仅按题设，不作医学建议。",
+      "explanations": [
+        "正确。费用更低使人较少推迟或放弃，增强计划实际被使用的可能。",
+        "甜食与龋齿没有直接补上预防题设后果的关键联系。",
+        "家族史说明风险分组，不说明报销计划会减少赔付。",
+        "平均牙齿健康类似不能证明计划的效果。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-05 · 卷一 Q98",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          43,
+          44
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-096",
+      "subject": "逻辑推理",
+      "topic": "范围与趋势",
+      "title": "一年持平与长期趋势",
+      "stem": "Many environmentalists rank global warming as the most serious current threat to the world's environment, citing evidence that over the past 30 years, the global temperature has risen an average of 2 degrees. However, the average global temperature this year is equal to the average global temperature of last year. Global warming, therefore, is not as serious a problem as these environmentalists claim. The argument is most vulnerable to the criticism that it",
+      "options": [
+        "argues that because a threat is present, that threat must be more serious than any other possible threat.",
+        "concludes that because there is lack of evidence for a problem, that problem does not exist.",
+        "attempts to refute a conclusion about a general trend by appealing to a single counterexample, even though such a counterexample may be consistent with the general trend",
+        "relies on the ambiguous use of a key term."
+      ],
+      "answer": 2,
+      "translation": "用一年温度持平否定30年趋势，推理缺陷是什么？",
+      "rule": "一般长期趋势可包含局部波动；单个与趋势相容的例子不能直接否定总体趋势。本题只练时间尺度与推理，不当作当前气候事实。",
+      "explanations": [
+        "原论证不是从存在一个威胁推出它最严重。",
+        "与其笼统说缺证据，C更精确描述用了哪种材料。",
+        "正确。单年持平可能与长期上升相容。",
+        "这里主要问题不是词义含混。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q96",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          112
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-097",
+      "subject": "逻辑推理",
+      "topic": "支持与削弱",
+      "title": "单项最佳与整体安全",
+      "stem": "Independent tests have confirmed that, on average, the antilock brakes found on Griffon min-vans outperform those of any other mini-van. Thus, any consumer who is purchasing a mini-van based solely on the criteria of safety should purchase a Griffon mini-van. Which one of the following statements, if true, most weakens the argument？",
+      "options": [
+        "Mini-vans are less safe than some other types of automobiles.",
+        "Most consumers purchase cars based on multiple criteria in addition to safety.",
+        "During the test, the brakes on some Phoenix mini-vans outperformed those on some Griffon mini-vans.",
+        "The Phoenix mini-vans achieved a better frontal crash-test rating than the Griffon mini-vans."
+      ],
+      "answer": 3,
+      "translation": "刹车平均最好→只看安全就应买该车，哪项最削弱？",
+      "rule": "一个安全指标最好，不足以保证总体安全最好；削弱只需降低原推理可信度，不必证明另一款车必然最安全。",
+      "explanations": [
+        "题目已限定正在购买mini-van，比较其他车型较弱。",
+        "题设限定只看安全的消费者，其他人的多指标偏好不击中结论。",
+        "部分个体刹车更强不反驳平均结果。",
+        "正确。正面碰撞表现是另一个相关安全维度。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q97",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          112,
+          113
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-adapt-2017-11-098-v1",
+      "subject": "逻辑推理",
+      "topic": "条件与平行推理",
+      "title": "Necessary assumption的桥梁",
+      "stem": "Organizers argue: \"Our bicycle rally will reduce vehicle emissions solely by increasing participants' awareness of pollution.\" Assume the rally has no other effect on emissions. Which assumption is necessary for this reasoning?",
+      "options": [
+        "Every participant will permanently stop using motor vehicles.",
+        "The increased awareness will lead at least some participants to change travel behavior in a way that reduces emissions.",
+        "The rally is more effective than every possible environmental policy.",
+        "All forms of pollution will disappear."
+      ],
+      "answer": 1,
+      "translation": "组织者只靠提高意识来降低排放，论证至少依赖什么？",
+      "rule": "Necessary assumption要把前提连接到所给结论；如果否定该桥梁后论证不能成立，它就是必要环节。不要把一般价值目标当成严格唯一假设。",
+      "explanations": [
+        "这比结论所需条件强得多：不必人人骑车。",
+        "正确。若提高意识完全不会改变出行，就无法靠这一唯一机制减排。",
+        "是否优于所有其他手段不是必要条件。",
+        "世界一切污染不必全部消失。"
+      ],
+      "source": {
+        "kind": "LEC改编题",
+        "label": "改编自 LEC 2017-11 · 卷一 Q98",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          113
+        ],
+        "note": "原题“most suitable assumption”在价值目标与必要假设之间含混，书答并非可靠唯一解。保留活动情境，重写为有明确桥梁的necessary-assumption题。"
+      },
+      "authorities": [],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "lec-2017-11-100",
+      "subject": "逻辑推理",
+      "topic": "条件与平行推理",
+      "title": "Only if与contraposition",
+      "stem": "Some people interpret the phrase “'survival of the fittest” as “survival of the strongest.” However, inasmuch as “'strong” is interpreted as “physical size and prowess，” this is incorrect. Although strength and size provide a survival advantage within a species in such tasks as breeding, fighting for food, and running from predators, a species will survive only if its overall resource requirement for maintaining its strength does not outweigh the resources available, as is often the case during a famine or other ecological disaster. Based on the passage above, which of the following statements must be true？",
+      "options": [
+        "If a species, resource requirement for maintaining its strength outweighs the resources available, that species will not survive.",
+        "Strength does not provide a survival advantage for hunting food.",
+        "The phrase “survival of the fittest” should not be used by the scientific community.",
+        "The species with the least strength is the most likely to survive in a famine."
+      ],
+      "answer": 0,
+      "translation": "存活only if资源需求不超过可用资源，必然推出什么？",
+      "rule": "S→R的逆否为¬R→¬S。需求超过可用资源→不能存活；不是资源够就必然存活，也不是越弱越容易存活。生物学内容仅按题设推理。",
+      "explanations": [
+        "正确。把必要条件否定后排除结果。",
+        "并非否定力量对觅食的作用。",
+        "Should不由题设事实必然推出。",
+        "资源约束不推出最弱物种最可能生存。"
+      ],
+      "source": {
+        "kind": "LEC真题",
+        "label": "LEC 2017-11 · 卷一 Q100",
+        "book": "法律英语证书(LEC)全国统一考试真题解析(2017-2019).pdf",
+        "pages": [
+          114
+        ],
+        "note": "仅整理断行与明显OCR排版；答案和解释独立复核。"
+      },
+      "authorities": [],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-01-v1",
+      "subject": "WTO",
+      "topic": "基本协定与原则",
+      "title": "GATT / GATS / TRIPS",
+      "stem": "Which matching of WTO agreements to their principal subject matter is correct?",
+      "options": [
+        "GATT—goods; GATS—services; TRIPS—intellectual property.",
+        "GATT—criminal procedure; GATS—land estates; TRIPS—jury selection.",
+        "GATT—services only; GATS—patents only; TRIPS—tariffs only.",
+        "All three agreements govern only sales of physical goods."
+      ],
+      "answer": 0,
+      "translation": "三项主要WTO协定各对应什么领域？",
+      "rule": "先分领域：GATT货物贸易，GATS服务贸易，TRIPS与贸易有关的知识产权；特定义务仍看具体条款和承诺。",
+      "explanations": [
+        "正确。先认清各自主要调整对象。",
+        "这些不是三项协定对应的主要领域。",
+        "把三个领域错配了。",
+        "GATS与TRIPS不是只调整实物货物销售。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · GATT Articles I–III",
+          "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+        },
+        {
+          "title": "WTO · GATS scope and four modes",
+          "url": "https://www.wto.org/english/tratop_e/serv_e/gatsqa_e.htm"
+        },
+        {
+          "title": "WTO · TRIPS Agreement overview",
+          "url": "https://www.wto.org/english/tratop_e/trips_e/intel2_e.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-02-v1",
+      "subject": "WTO",
+      "topic": "基本协定与原则",
+      "title": "MFN与national treatment",
+      "stem": "Ignoring any applicable exception, which comparison best distinguishes GATT most-favoured-nation treatment from national treatment?",
+      "options": [
+        "MFN compares only two domestic provinces; national treatment compares only two foreign states.",
+        "MFN generally compares treatment of like imports from different WTO members; national treatment addresses imported versus like domestic products in internal taxation or regulation.",
+        "Both rules simply require every tariff to be zero.",
+        "National treatment means imported products must always receive more favorable treatment than domestic products."
+      ],
+      "answer": 1,
+      "translation": "MFN与national treatment比较的两边分别是谁？",
+      "rule": "MFN重点是不同来源成员之间的非歧视；national treatment关注进口品与国内同类产品在境内税收规制中的待遇。具体“同类”与违反标准依条款。",
+      "explanations": [
+        "比较对象反了，也不是一般省际规则。",
+        "正确。注意internal measures与边境关税区分。",
+        "非歧视不等于所有关税清零。",
+        "国民待遇不是自动优待进口品。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · GATT Articles I–III",
+          "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-03-v1",
+      "subject": "WTO",
+      "topic": "基本协定与原则",
+      "title": "Bound rate与applied rate",
+      "stem": "A WTO member binds the ordinary customs duty on a product at 10% and currently applies 5%. Considering only that tariff binding, with no other obligation or exception at issue, which change stays within the ceiling?",
+      "options": [
+        "Raising the ordinary duty to 12%.",
+        "Treating the 10% binding as merely an optional suggestion.",
+        "Raising the applied duty to 8%.",
+        "Charging any rate because an applied rate can never be constrained."
+      ],
+      "answer": 2,
+      "translation": "约束税率10%，现行5%；只看该关税上限，提高到8%还是12%不超过承诺？",
+      "rule": "Bound tariff是承诺的上限，不必等于每一时点的applied tariff；不能仅因原来收5%就把5%当永久约束上限。",
+      "explanations": [
+        "12%超过本题10%的binding。",
+        "承诺不是随意忽略的建议。",
+        "正确。8%在10%以内；题干已排除其他义务问题。",
+        "Applied rate仍受binding及其他适用规则约束。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · GATT Articles I–III",
+          "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_01_e.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-04-v1",
+      "subject": "WTO",
+      "topic": "服务贸易",
+      "title": "GATS Mode 1与Mode 2",
+      "stem": "A doctor in member A consults by video with a patient remaining in member B. Another patient travels from B to A to receive treatment. Which modes are illustrated, respectively?",
+      "options": [
+        "Mode 3, then Mode 4.",
+        "Mode 2, then Mode 1.",
+        "Mode 4, then Mode 3.",
+        "Mode 1 cross-border supply, then Mode 2 consumption abroad."
+      ],
+      "answer": 3,
+      "translation": "医生远程跨境服务，与患者本人出境就医，分别是哪种mode？",
+      "rule": "Mode 1服务跨境、双方人留原地；Mode 2消费者跨境消费。认出mode不等于证明该部门已作无限开放承诺。",
+      "explanations": [
+        "没有以外国营业机构和服务提供者临时入境为题干重点。",
+        "前后对调了。",
+        "前后都不是题干的主要模式。",
+        "正确。看跨境的是服务还是消费者。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · GATS scope and four modes",
+          "url": "https://www.wto.org/english/tratop_e/serv_e/gatsqa_e.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-05-v1",
+      "subject": "WTO",
+      "topic": "服务贸易",
+      "title": "GATS Mode 3与Mode 4",
+      "stem": "A bank from member A establishes a branch in member B. Separately, a consultant from A temporarily enters B to provide a service. These illustrate:",
+      "options": [
+        "Mode 3 commercial presence, and Mode 4 presence of natural persons.",
+        "Mode 1 in both cases because all services are intangible.",
+        "Mode 2 in both cases because a consumer must always travel.",
+        "A general WTO right to permanent immigration and citizenship."
+      ],
+      "answer": 0,
+      "translation": "银行设境外分行，与顾问临时入境提供服务，分别对应什么？",
+      "rule": "Mode 3是commercial presence；Mode 4是natural persons跨境提供服务，不能直接等同一般永久就业、移民或国籍权利。",
+      "explanations": [
+        "正确。看营业实体与自然人两种存在方式。",
+        "无形性不能抹去四种mode的区别。",
+        "题干不以消费者出境为核心。",
+        "GATS Mode 4不自动提供这些一般移民权利。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · GATS scope and four modes",
+          "url": "https://www.wto.org/english/tratop_e/serv_e/gatsqa_e.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-06-v1",
+      "subject": "WTO",
+      "topic": "知识产权与例外",
+      "title": "TRIPS不是全球专利证书",
+      "stem": "What does the TRIPS Agreement generally establish?",
+      "options": [
+        "A single patent automatically valid in every WTO member whenever one state grants it.",
+        "Minimum standards of intellectual-property protection and enforcement that WTO members must implement, with treaty flexibilities.",
+        "A rule abolishing every national intellectual-property law.",
+        "An unrestricted right to copy any work for commercial sale."
+      ],
+      "answer": 1,
+      "translation": "TRIPS提供统一的全球专利，还是成员应达到的保护标准？",
+      "rule": "TRIPS规定知识产权保护与执行的最低标准，并保留具体flexibilities；不是授予一张在所有成员自动有效的专利。",
+      "explanations": [
+        "成员的专利保护仍有领土与程序要求。",
+        "正确。最低标准不等于所有制度必须完全一样。",
+        "不是废除国内法，而涉及国内落实义务。",
+        "TRIPS不创设这种无限商业复制权。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · TRIPS Agreement overview",
+          "url": "https://www.wto.org/english/tratop_e/trips_e/intel2_e.htm"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-07-v1",
+      "subject": "WTO",
+      "topic": "知识产权与例外",
+      "title": "GATT Article XX两层分析",
+      "stem": "A member invokes a GATT Article XX general exception for a measure otherwise inconsistent with GATT. Which approach is correct?",
+      "options": [
+        "A stated environmental goal automatically ends the analysis.",
+        "Only the measure's title matters.",
+        "The measure must satisfy an applicable paragraph and also the chapeau, including its limits on arbitrary or unjustifiable discrimination and disguised trade restrictions.",
+        "Once a paragraph applies, discriminatory application can never matter."
+      ],
+      "answer": 2,
+      "translation": "Article XX一般例外只要说“环保”就够了吗？",
+      "rule": "通常先判断能否落入XX具体分项，再看chapeau限制；各分项的necessary或relating to等措辞不同，不能混用为统一条件。",
+      "explanations": [
+        "正当目标本身不替代具体条件。",
+        "看实际措施与适用，不只看标题。",
+        "正确。这是分项与chapeau两个层面。",
+        "适用方式仍可能违反chapeau。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · GATT Article XX",
+          "url": "https://www.wto.org/english/docs_e/legal_e/gatt47_02_e.htm#articleXX"
+        }
+      ],
+      "extension": false,
+      "terms": []
+    },
+    {
+      "id": "wto-foundation-08-v1",
+      "subject": "WTO",
+      "topic": "争端解决",
+      "title": "谁能直接提起WTO争端？",
+      "stem": "A private exporting company believes another WTO member's measure breaches a WTO agreement. Who can directly bring a dispute as a complainant under the WTO dispute-settlement system?",
+      "options": [
+        "Any private company merely because it lost sales.",
+        "Any individual consumer who pays the filing fee.",
+        "A national court acting as a private commercial claimant.",
+        "A WTO member; private companies do not have direct party access to that system."
+      ],
+      "answer": 3,
+      "translation": "受贸易措施影响的私人公司，能否自己作为申诉方直接提起WTO争端？",
+      "rule": "WTO争端解决的直接当事方是WTO members；企业可向本成员有关部门反映，但不因经济损失自动取得直接申诉方资格。",
+      "explanations": [
+        "公司受损不自动成为WTO程序当事方。",
+        "不存在仅付费即可作为私人申诉方的规则。",
+        "国内法院不是以该身份直接充当私人贸易申诉方。",
+        "正确。不要把WTO party access与国内法院standing混成同一规则。"
+      ],
+      "source": {
+        "kind": "专项练习",
+        "label": "WTO基础规则 · 自编专项",
+        "note": "依LEC保留的WTO范围及所列WTO官方材料独立编写；不是LEC历年原题或官方MBE题。"
+      },
+      "authorities": [
+        {
+          "title": "WTO · Participants in dispute settlement",
+          "url": "https://www.wto.org/english/tratop_e/dispu_e/disp_settlement_cbt_e/c1s4p1_e.htm"
         }
       ],
       "extension": false,
